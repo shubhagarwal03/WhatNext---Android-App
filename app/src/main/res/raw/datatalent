@@ -1,0 +1,317 @@
+{
+  "Id": "3",
+  "Name": "Talent Test",
+  "Test": [
+
+    {
+
+      "Id": "1",
+
+      "Name": "NDSE (National Talent Search Exam)",
+
+      "Eligiblity": "10 th class students, Science, Maths , Social , Mental ablility",
+
+      "Site": "www.ncert.nic.in"
+
+    },
+
+    {
+
+      "Id": "2",
+
+      "Name": "KYPY (Kishor Vygnanika  Proshaah  Yogena)",
+
+      "Eligiblity": "Inter (MPC /BiPC) , Inter syllabus",
+
+      "Site": "www.kypy.iisc.ernet.in"
+
+    },
+
+    {
+
+      "Id": "2",
+
+      "Name": "HBBVS (Dr. Homi Baba bala vidyanic spertha)",
+
+      "Eligiblity": "6 to 9 th class students, CBSE/ICSE Syllabus",
+
+      "Site": "www.instrs.in"
+
+    },
+
+    {
+
+      "Id": "3",
+
+      "Name": "NSO (National Science Olympiad)",
+
+      "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+      "Site": "www.sofworld.org"
+
+    },
+
+    {
+
+      "Id": "4",
+
+      "Name": "NCO (National Cyber Olympiad)",
+
+      "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+      "Site": "www.sofworld.org"
+
+    },
+
+    {
+
+      "Id": "5",
+
+      "Name": "UCO (Unified Cyber Olympiad)",
+
+      "Eligiblity": "8 to 12 th class students , Mental ability, Reasoning, Computer Skills",
+
+      "Site": "www.unifiedcouncil.com"
+
+    },
+
+    {
+
+      "Id": "6",
+
+      "Name": "NDSE (National Science Talent search Exam)",
+
+      "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+      "Site": "www.unifiedcouncil.com"
+
+    },
+
+    {
+
+      "Id": "7",
+
+      "Name": "MTSE (Maths Talent Search Exam)",
+
+      "Eligiblity": "3 to 9 th class students, Mental ability, Reasoning, Maths",
+
+      "Site": "www.ganithasastraparishad.org"
+
+    },
+
+    {
+
+      "Id": "8",
+
+      "Name": "IMO (International Mathematics Olympiad)",
+
+      "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+      "Site": "www.imo_official.in"
+
+    },
+
+    {
+
+      "Id": "9",
+
+      "Name": "NLSTSE (National Level Science Talent Search Exam)",
+
+      "Eligiblity": "1 to 12 th class students, CBSE/ICSE Syllabus",
+
+      "Site": "www.unifiedcouncil.com"
+
+    },
+
+    {
+
+      "Id": "10",
+
+      "Name": "NSEJS (National Standard Exam in Junior l Science)",
+
+      "Eligiblity": "1 to 10 th class students , CBSE/ICSE Syllabus",
+
+      "Site": "www.iapt.org.in"
+
+    },
+
+    {
+
+      "Id": "11",
+
+      "Name": "SSTSE (State Level Science Talent Search Exam)",
+
+      "Eligiblity": "4 to 10 th class students , SCERT",
+
+      "Site": "www.unifiedcouncil.com"
+
+    },
+
+    {
+
+      "Id": "12",
+
+      "Name": "IAIS (International Assessment for Indian Schools)",
+
+      "Eligiblity": "3 to 12 th class students, CBSE/ICSE / SCERT Syllabus",
+
+      "Site": "www.macmillaneducat ion.in/iais"
+
+    },
+
+    {
+
+      "Id": "13",
+
+      "Name": "IOS (International Olympiad in Science)",
+
+      "Eligiblity": "1 to 12 th class students, CBSE/ICSE",
+
+      "Site": "www.sofworld.org"
+
+    },
+
+    {
+
+      "Id": "14",
+
+      "Name": "RMO (Regional Mathematics Olympiad)",
+
+      "Eligiblity": "Intermediate CBSE  Syllabus",
+
+      "Site": "www.isical.ac.in"
+
+    },
+
+    {
+
+      "Id": "15",
+
+      "Name": "IOEL (International Olympiad of English Language)",
+
+      "Eligiblity": "1 to 12 th class students CBSE/ICSE Syllabus",
+
+      "Site": "http://schools.aglasari.com"
+
+    },
+
+    {
+
+      "Id": "16",
+
+      "Name": "NSIB (National Standard Exam in Biology)",
+
+      "Eligiblity": "Senior Inter Students CBSE"
+
+    },
+
+    {
+
+      "Id": "17",
+
+      "Name": "NSEC (National Standard Exam in Chemistry)",
+
+      "Eligiblity": "Senior Inter Students CBSE  Syllabus",
+
+      "Site": "http://iapt.org.in"
+
+    },
+
+    {
+
+      "Id": "18",
+
+      "Name": "NSEA (National Standard Exam in Astronomy)",
+
+      "Eligiblity": "Senior Inter Students CBSE  Syllabus",
+
+      "Site": "http://iapt.org.in"
+
+    },
+
+    {
+
+      "Id": "19",
+
+      "Name": "NSEP (National Standard Exam in Physics)",
+
+      "Eligiblity": "Senior Inter Students CBSE  Syllabus",
+
+      "Site": "http://iapt.org.in"
+
+    },
+
+    {
+
+      "Id": "20",
+
+      "Name": "ZIO (Zonal Information Olympiad)",
+
+      "Eligiblity": "8 to 12 th class students CBSE  Syllabus",
+
+      "Site": "www.iarcs.org.in"
+
+    },
+
+    {
+
+      "Id": "21",
+
+      "Name": "IIO (International Information Olympiad)",
+
+      "Eligiblity": "1 to 8 th class students CBSE/ICSE / SCERT Syllabus",
+
+      "Site": "www.iarcs.org.in"
+
+    },
+
+    {
+
+      "Id": "22",
+
+      "Name": "NIMO (National Interactive  Mathematics Olympiad)",
+
+      "Eligiblity": "5 to 12th class students Maths, Science, Mental Ability",
+
+      "Site": "www.eduhealfoundation.org"
+
+    },
+
+    {
+
+      "Id": "23",
+
+      "Name": "NBTO (National Bio-Technology Olympiad)",
+
+      "Eligiblity": "5 to 12th class students CBSE/ICSE / SCERT",
+
+      "Site": "www.eduhealfoundation.org"
+
+    },
+
+    {
+
+      "Id": "24",
+
+      "Name": "IGO (Indian Geography Olympiad)",
+
+      "Eligiblity": "2nd  to 12th class students CBSE",
+
+      "Site": "www.geogeniusindia.com"
+
+    },
+
+    {
+
+      "Id": "25",
+
+      "Name": "KO (Knowledge Olimpiade)",
+
+      "Eligiblity": "2 nd  to 12th class students CBSE/ICSE / SCERT",
+
+      "Site": "http://aisect.org"
+
+    }
+
+  ]
+}

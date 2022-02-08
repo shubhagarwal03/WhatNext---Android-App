@@ -1,0 +1,2426 @@
+{
+  "Level": [
+    {
+      "Id": "0",
+      "Name": "After 10th Class",
+      "Passion": [
+        {
+          "Name": "Engineering",
+          "SubPassion": [
+            {
+              "Name": "Engineering",
+              "Types": [
+                "Mechanical",
+                "Computer Science",
+                "Civil",
+                "EEE",
+                "IT",
+                "Automobile",
+                "Electronics  & Communication",
+                "Bio- Technology",
+                "Electrical",
+                "Chemical",
+                "Aeronautical",
+                "Agriculture",
+                "Architecture",
+                "Bio- Medical",
+                "Marine technology",
+                "Mining technology",
+                "Leather technology",
+                "Textile technology",
+                "Petroleum technology",
+                "Plastic technology",
+                "Rubber technology"
+              ],
+              "Courses": [
+                "Polytechnic ( 3 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "Delhi CET",
+                  "Desc": "DIRECTORATE OF TRAINING AND TECHNICAL EDUCATION",
+                  "Site": "https://cetdelhi.nic.in/cetde/public/home.aspx"
+                },
+                {
+                  "Name": "UP Polytechnic Entrance",
+                  "Desc": "UP Joint Entrance Examination",
+                  "Site": "https://jeecup.nic.in/webinfo/public/home.aspx"
+                }
+              ],
+              "Jobs": [
+                "Self-Employment",
+                "Public Sector / PSUs Job",
+                "Graduation in Study Domain"
+
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Medical",
+          "SubPassion": [
+            {
+              "Name": "Medical",
+              "Types": [
+                "Diploma in Emergency Medicine",
+                "DMLT- Diploma in Medical Laboratory Technology",
+                "Diploma in Hospital Administration",
+                "Diploma in O.T. Technician",
+                "Diploma in Biomedical Instrumentation",
+                "X-Ray Technician",
+                "Health Inspector",
+                "Sanitary Inspector"
+              ],
+              "Courses": [
+                "Paramedical ( 3 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "Jamia Hamdard University, Delhi",
+                  "Desc": "Jamia Hamdard is an institute of higher education deemed to be university located in New Delhi, India. It is a government-funded university",
+                  "Site": "http://jamiahamdard.edu/"
+                },
+                {
+                  "Name": "Belgaum Institute of Medical Sciences",
+                  "Desc": "Belgaum Institute of Medical Sciences",
+                  "Site": "http://www.bimsbelgaum.org/"
+                },
+                {
+                  "Name": "Adichunchanagiri College of Nursing",
+                  "Desc": "The College of Nursing is a Part of Sri Adichunchanagiri Shikshana Trust (R)",
+                  "Site": "https://www.acnain.in/"
+                }
+              ],
+              "Jobs": [
+                "Suitable for appointment as Technicians / Assistants in Private Hospitals / Nursing Homes or with Private Medical Practitioners etc",
+                "Open own X-ray Centre in any part of the country. Subject to state Law’s or under the supervision of Medical Professional / Radiologist / Cardiologist"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Techncial",
+          "SubPassion": [
+            {
+              "Name": "Techncial",
+              "Types": [
+                "Fitter",
+                "Computer",
+                "Civil(Draughtman)",
+                "Mechanical",
+                "Electrician & Plumber",
+                "Surveyor",
+                "Electrical",
+                "Machine tools",
+                "Welder",
+                "Firemen",
+                "Cookery",
+                "Paint Technology"
+              ],
+              "Courses": [
+                "ITI ( 2 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "Delhi ITI",
+                  "Desc": "Industrial Training Institutes and Industrial Training Centers are post-secondary schools in India constituted under Directorate General of Training, Ministry of Skill Development and Entrepreneurship, Union Government to provide training in various trades",
+                  "Site": "https://itidelhiadmissions.nic.in/publicinfo/public/home.aspx"
+                },
+                {
+                  "Name": "UP ITI",
+                  "Desc": "Industrial Training Institutes and Industrial Training Centers are post-secondary schools in India constituted under Directorate General of Training, Ministry of Skill Development and Entrepreneurship, Union Government to provide training in various trades",
+                  "Site": "http://www.scvtup.in/hi"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Art",
+          "SubPassion": [
+            {
+              "Name": "Art",
+              "Types": [
+                "Beauty & Cosmetology",
+                "Jewelry Designing",
+                "Fashion Designing",
+                "Photography",
+                "Interior Designing"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "BIE telangana",
+                  "Desc": "The Telangana State Board of Intermediate Education promotes the vision of world-class education in Telangana through quality leadership, support, and services. It aims at continuous improvement of education in the State",
+                  "Site": "https://tsbie.cgg.gov.in/"
+                },
+                {
+                  "Name": "Polytechnic Entrance",
+                  "Desc": "The Telangana State Board of Intermediate Education promotes the vision of world-class education in Telangana through quality leadership, support, and services. It aims at continuous improvement of education in the State",
+                  "Site": "www.appolitechnic.nic"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Other Courses",
+          "SubPassion": [
+            {
+              "Name": "Other Courses",
+              "Types": [
+                "DTP",
+                "PGDCA",
+                "Tally",
+                "Internet",
+                "Graphics",
+                "Animation",
+                "Web designing"
+              ],
+              "Courses": [
+                "ITI or Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "Delhi ITI",
+                  "Desc": "Industrial Training Institutes and Industrial Training Centers are post-secondary schools in India constituted under Directorate General of Training, Ministry of Skill Development and Entrepreneurship, Union Government to provide training in various trades",
+                  "Site": "https://itidelhiadmissions.nic.in/publicinfo/public/home.aspx"
+                },
+                {
+                  "Name": "UP ITI",
+                  "Desc": "Industrial Training Institutes and Industrial Training Centers are post-secondary schools in India constituted under Directorate General of Training, Ministry of Skill Development and Entrepreneurship, Union Government to provide training in various trades",
+                  "Site": "http://www.scvtup.in/hi"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "1",
+      "Name": "After 12th Class",
+      "Passion": [
+        {
+          "Name": "Engineering",
+          "SubPassion": [
+            {
+              "Name": "Engineering",
+              "Types": [
+                "Computer Engg",
+                "Information Technology",
+                "Electric and Telecommunication",
+                "Electrical & Electronics Engg",
+                "Civil Engg",
+                "Mechanical Eng",
+                "Chemical Eng",
+                "Aeronautical Eng",
+                "Aerospace Eng",
+                "Agriculture Eng",
+                "Automobile Eng",
+                "Bio-medical Eng",
+                "Bio-technology Eng",
+                "Ceramic Eng",
+                "Industrial Eng",
+                "Environmental Eng",
+                "Marine Eng",
+                "Mining Eng",
+                "Silk & Textile Eng"
+              ],
+              "Courses": [
+                "BE / B. Tech( 4 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "JEE - JOINT ENTRANCE EXAM MAIN",
+                  "Desc": "Undergraduate Engineering Programs at NITs, IIITs, other Centrally Funded Technical Institutions (CFTI), Institutions funded by participating State Governments, and other Institutions",
+                  "Site": "https://jeemain.nta.nic.in/"
+                },
+                {
+                  "Name": "BITSAT - BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE ADMISSION TEST",
+                  "Desc": "Birla Institute of Technology & Science (BITS), Pilani a leading Institute of Higher Education and a deemed University under section 3 of the UGC act offering degree programmes in Engineering, Sciences, Technology, Pharmacy, Management and Humanities",
+                  "Site": "https://bitsadmission.com/"
+                },
+                {
+                  "Name": "IPU-CET (B. Tech)",
+                  "Desc": "Guru Gobind Singh Indraprastha University",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "MIT - Manipal Institute of Technology",
+                  "Desc": "Manipal Institute of Technology offers BTech and MTech degrees in several engineering streams including Computer Science, Electrical, Mechanical, Building Science, and Chemical",
+                  "Site": "https://manipal.edu/"
+                },
+                {
+                  "Name": "VITEEE",
+                  "Desc": "ELLORE INSTITUTE OF TECHNOLOGY ENGINEERING ENTRANCE EXAMINATION",
+                  "Site": "www.vit.ac.in"
+                },
+                {
+                  "Name": "AMU (B. Tech)",
+                  "Desc": "ALIGARH MUSLIM UNIVERSITY ENGINEERING ENTRANCE EXAM",
+                  "Site": "https://amu.ac.in"
+                },
+                {
+                  "Name": "UPSEE-UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "It is a State level exam for candidates seeking admission in various UG and PG courses. Uttar Pradesh State Entrance Examination is a gateway to institutes affiliated to AKTU (earlier known as UPTU or Uttar Pradesh Technical University). ",
+                  "Site": "http://upsee.nic.in"
+                },
+                {
+                  "Name": "GUJCET-GUJARAT COMMON ENTRANCE TEST",
+                  "Desc": "GUJCET is conducted by GSEB Board to grant admission to students to B.Tech/ B.E and B.Pharma programs offered by colleges in the state of Gujarat.",
+                  "Site": "https://gujcet.gseb.org/"
+                },
+                {
+                  "Name": "OJEE-ODISHA JOINT ENTRANCE EXAMINATION",
+                  "Desc": "ODISHA JOINT ENTRANCE EXAMINATION",
+                  "Site": "https://ojee.nic.in/publicinfo/public/home.aspx"
+                },
+                {
+                  "Name": "DUET - DELHI UNIVERSITY ENTRANCE TEST",
+                  "Desc": "Delhi University Entrance Test (DUET) is an online entrance exam conducted by the National Testing Agency (NTA) for the candidates seeking admission in UG, PG, M.Phil., and PhD courses offered by Delhi University.",
+                  "Site": "http://du.ac.in/du"
+                },
+                {
+                  "Name": "HPCET-HIMACHAL PRADESH COMMON ENTRANCE TEST",
+                  "Desc": "Himachal Pradesh Common Entrance Test (HPCET) is a state-level exam conducted for admission of candidates to undergraduate and post-graduate courses offered at various colleges of the Himachal Pradesh.",
+                  "Site": "https://www.himtu.ac.in/"
+                },
+                {
+                  "Name": "KCET-KARNATAKA COMMON ENTRANCE TEST",
+                  "Desc": "Karnataka Common Entrance Test is the common entrance exam conduced annually for admission to the professional courses in the state of Karnataka. KCET is conducted by the Karnataka Examination Authority, which comes under the Ministry of Higher Education of Karnataka",
+                  "Site": "https://kea.kar.nic.in"
+                },
+                {
+                  "Name": "TS EAMCET - TELANGANA STATE ENGINEERING AGRICULTURE AND MEDICAL COMMON ENTRANCE TEST",
+                  "Desc": "TS EAMCET is a state-level entrance exam to grant admission in the first year engineering/ agriculture/ medical courses at various colleges/ universities in the State of Telangana.More than 300 private colleges and universities accept TSEAMCET Results for admission in the professional courses.",
+                  "Site": "https://eamcet.tsche.ac.in"
+                },
+                {
+                  "Name": "WBJEE - WEST BENGAL JOINT ENTRANCE EXAMINATION",
+                  "Desc": "WBJEEB conducts the exam to grant admission to students in undergraduate Engineering, Technology, Architecture and Pharmacy courses offered by colleges in West Bengal.",
+                  "Site": "https://wbjeeb.nic.in"
+                },
+                {
+                  "Name": "BHU PET - BANARAS HINDU UNIVERSITY POSTGRADUATE ENTRANCE TEST",
+                  "Desc": "OBHU PET  is a university level Post Graduation Entrance Exam conducted by Banaras Hindu University in Varanasi, Uttar Pradesh. It is conducted to provide admission to General, Professional, Special and Vocational Courses. ",
+                  "Site": "https://http://bhuonline.in/"
+                },
+                {
+                  "Name": "SET - SYMBIOSIS ENTRANCE TEST",
+                  "Desc": "Symbiosis SET is a university level entrance test conducted to grant admission to students in undergraduate programs offered by SIU affiliated institutes.",
+                  "Site": "https://set-test.org"
+                },
+                {
+                  "Name": "JAIN ENTRANCE TEST (JET)",
+                  "Desc": "Jain Entrance Test or JET 2020 is an entrance exam conducted for admission to various UG and PG courses offered by Jain University.",
+                  "Site": "www.jainuniversity.ac.in"
+                },
+                {
+                  "Name": "AMITY JEE",
+                  "Desc": "AMITY JOINT ENTRANCE EXAMINATION",
+                  "Site": "https://amity.edu/amityjee"
+                },
+                {
+                  "Name": "CUCET - CENTRAL UNIVERSITIES COMMON ENTRANCE TEST",
+                  "Desc": "CUCET is a national level examination which is regulated by ten central universities jointly. It is a combined entrance test organized for providing admission into various UG, PG & other courses offered by the central universities across India. ",
+                  "Site": "https://www.cucetexam.in/"
+                },
+                {
+                  "Name": "JNUEE- JAWAHARLAL NEHRU UNIVERSITY ENTRANCE EXAMINATION",
+                  "Desc": "Jawaharlal Nehru University Entrance Examination (JNUEE) is conducted for admissions in various UG, PG and Doctoral courses offered by Jawaharlal Nehru University",
+                  "Site": "https://www.jnu.ac.in/admissions"
+                },
+                {
+                  "Name": "TNEA- TAMIL NADU ENGINEERING ADMISSIONS",
+                  "Desc": "Anna University conducts Tamil Nadu Engineering Admissions (TNEA) for undergraduate admissions in engineering and technology programs in the colleges of Tamil Nadu.",
+                  "Site": "http://tneaonline.in"
+                }
+              ],
+              "Jobs": [
+                "Higher Studies",
+                "Public Service Undertakings",
+                "Management or Management Course",
+                "Entrepreneurship",
+                "Become an Expert, Consultancy",
+                "Civil Services",
+                "Private sector job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Medical",
+          "SubPassion": [
+            {
+              "Name": "Medicine",
+              "Types": [
+                "MBBS-Allopathic",
+                "BUMS-Unani",
+                "BHMS-Homeopathy",
+                "BAMS-Ayurveda",
+                "BNYS-Naturopathy",
+                "Ag.BSc-Agricultural",
+                "BDS-Dental",
+                "BVSc-Veterinary",
+                "BPT-Physiotherapy"
+              ],
+              "Courses": [
+                "Medicine ( 5 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "NEET - National Eligibility cum Entrance Test",
+                  "Desc": "The National Eligibility cum Entrance Test (Undergraduate), succeeded from All India Pre-Medical Test is an entrance examination in India for students who wish to study undergraduate medical courses and dental courses in government or private medical colleges and dental colleges in India",
+                  "Site": "http://ntaneet.nic.in"
+                },
+                {
+                  "Name": "AIIMS",
+                  "Desc": "AIIMS. All India Institute of Medical Sciences, New Delhi ",
+                  "Site": "mbbs.aiimsexams.org"
+                },
+                {
+                  "Name": "UPSEE - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "http://upsee.nic.in"
+                },
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "http://ipu.ac.in"
+                },
+                {
+                  "Name": "KEAM - KERALA ENGINEERING AGRICULTURAL MEDICAL ENTRANCE EXAMINATION",
+                  "Desc": "KEAM is a state level exam conducted by the Commissioner of Entrance Examination (CEE), Kerala, for admission into the UG Engineering programs",
+                  "Site": "http://cee-kerala.org"
+                },
+                {
+                  "Name": "BCECE - BIHAR COMBINED ENTRANCE COMPETITIVE EXAMINATION",
+                  "Desc": "BCECE is an Entrance exam, conducted for admission to engineering, medical and agriculture courses in various colleges of Bihar state",
+                  "Site": "http://bceceboard.bihar.gov.in"
+                },
+                {
+                  "Name": "JIPMER - JAWAHARLAL INSTITUTE OF POST GRADUATE MEDICAL EDUCATION AND RESEARCH",
+                  "Desc": "The Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER) is a medical school located at Pondicherry",
+                  "Site": "www.jipmer.edu.in"
+                },
+                {
+                  "Name": "CMC-Ludhiana - Christian Medical College & Hospital",
+                  "Desc": "The Christian Medical College and Hospital is a private, minority-run teaching hospital in Ludhiana, India. Founded in 1894, it was the first medical school for women in Asia",
+                  "Site": "http://cmcludhiana.in/"
+                },
+                {
+                  "Name": "COMED-K",
+                  "Desc": "COMEDK Undergraduate Entrance Test (UGET) is a state-level entrance exam conducted by the Consortium of Medical, Engineering and Dental Colleges of Karnataka",
+                  "Site": "https://www.comedk.org/"
+                },
+                {
+                  "Name": "Manipal (MBBS)",
+                  "Desc": "Manipal Academy of Higher Education, formerly known as Manipal University, is a private research institute deemed to be university located in the university town of Manipal, Udupi, Karnataka, India",
+                  "Site": "https://manipal.edu/kmc-manipal/admissions-to-mbbs--bds-program.html"
+                },
+                {
+                  "Name": "CMC- Christian Medical College",
+                  "Desc": "Christian Medical College, Vellore widely known as CMC, Vellore is a private, minority-run medical school, hospital and research",
+                  "Site": "https://www.cmch-vellore.edu/"
+                }
+              ],
+              "Jobs": [
+                "Government Jobs in health services departments",
+                "Defence Services: Jobs in Army, Navy and Air Force",
+                "Employment in Hospital Chains",
+                "Career in Health Administration/Hospital Management",
+                "Self-employment through private practice/ Public health",
+                "Specializations MD/MS"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Allied Health Sciences",
+              "Types": [
+                "B.Pharma",
+                "BSc. Nursing",
+                "BOT-Occupational therapy",
+                "BSc-Anesthesia Tec",
+                "BSc-Cardiac Tec",
+                "BSc-Medical  Lab Tec",
+                "BSc-Radio Therapy Tec",
+                "BSc-Clinical Optometry",
+                "BSc-Nuclear Medicine",
+                "BSc-Operation Theatre",
+                "BSc-Physician assistant",
+                "BSc-Respiratory care",
+                "BMLT-Medical Lab Technology"
+              ],
+              "Courses": [
+                "Health Sciences (3/4 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "PU CET",
+                  "Desc": "This exam is for common entrance exam for entrance in various undergraduate courses including BPharm in Panjab University, Chandigarh.",
+                  "Site": "https://cetug.puchd.ac.in/"
+                },
+                {
+                  "Name": "MET",
+                  "Desc": "Manipal Entrance Test (MET) is for admission in undergraduate courses in Manipal Academy of Higher Education (MAHE).",
+                  "Site": "https://manipal.edu/"
+                },
+                {
+                  "Name": "UPSEE - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "http://upsee.nic.in"
+                },
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "http://ipu.ac.in"
+                },
+                {
+                  "Name": "BITSAT",
+                  "Desc": "BITSAT is a national level entrance exam providing admission across BITS campus.",
+                  "Site": "https://www.bitsadmission.com/"
+                },
+                {
+                  "Name": "Banasthali Vidyapith Aptitude Test ",
+                  "Desc": "BCECE is an Entrance exam, conducted for admission to engineering, medical and agriculture courses in various colleges of Bihar state",
+                  "Site": "http://www.banasthali.org"
+                },
+                {
+                  "Name": "MAHACET",
+                  "Desc": "Maharashtra Common Entrance Test for admission in various undergraduate courses across Maharashtra.",
+                  "Site": "http://cetcell.mahacet.org/"
+                },
+                {
+                  "Name": "NPAT",
+                  "Desc": "NMIMS-NPAT  (for NMIMS Programs after 12th) is the official entrance test for admissions to Undergraduate Degree and Integrated Degree Programs",
+                  "Site": "https://www.npat.in/pharmacy-and-technology-management.php"
+                },
+                {
+                  "Name": "KCET",
+                  "Desc": "Kerala Common Entrance Test offers admission in various colleges across Kerala.",
+                  "Site": "https://cetonline.karnataka.gov.in/kea/"
+                }
+              ],
+              "Jobs": [
+                "Clinical Research Associate",
+                "R&D Scientist",
+                "Quality Control Associate",
+                "Formulation Development (F&D) Associate",
+                "Drug Inspector",
+                "Scientific Writer",
+                "Lab technician or, supervisor",
+                "Lab manager",
+                "Dietician",
+                "Sonographer or Dialysis Technician"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Arm Force",
+          "SubPassion": [
+            {
+              "Name": "Army",
+              "Types": [
+                "Army"
+              ],
+              "Courses": [
+                "NDA 4-4.5 Years",
+                "TES 4-4.5 Years"
+              ],
+              "Exams": [
+                {
+                  "Name": "National Defence Academy and Naval Academy Examination (I)",
+                  "Desc": "Admission to Army and Air Force wings of NDA and 4 years B. Tech course for the Indian Naval",
+                  "Site": "www.upsc.gov.in/"
+                },
+                {
+                  "Name": "Defence Indian Army Technical Entry Scheme (TES)",
+                  "Desc": "Purpose-Technical Entry to Army",
+                  "Site": "www.joinindianarmy.nic.in/"
+                }
+              ],
+              "Jobs": [
+                "Lieutenant",
+                "Captain",
+                "Major",
+                "LT. Colonel"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Air Force",
+              "Types": [
+                "Air Force"
+              ],
+              "Courses": [
+                "NDA 4-4.5 Years"
+              ],
+              "Exams": [
+                {
+                  "Name": "National Defence Academy and Naval Academy Examination (I)",
+                  "Desc": "Admission to Army and Air Force wings of NDA and 4 years B. Tech course for the Indian Naval",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Flight Lieutenant",
+                "Squadron Leader",
+                "Wing Commander"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Navy",
+              "Types": [
+                "Navy"
+              ],
+              "Courses": [
+                "NDA 4-4.5 Years", "Maritime University", "Sailors Recruitmen"
+              ],
+              "Exams": [
+                {
+                  "Name": "National Defence Academy and Naval Academy Examination (I)",
+                  "Desc": "Admission to Army and Air Force wings of NDA and 4 years B. Tech course for the Indian Naval",
+                  "Site": "www.upsc.gov.in/"
+                },
+                {
+                  "Name": "Indian Maritime University Common Entrance Test",
+                  "Desc": "Admission in Diploma in Nautical Science (DNS) leading to BSc. (Nautical Science)",
+                  "Site": "www.imu.edu.in/index.php"
+                },
+                {
+                  "Name": "Indian Navy Sailors Recruitmen",
+                  "Desc": "Admission in 24 weeks Basic training at INS Chilka followed by Professional training",
+                  "Site": "www.nausena-bharti.nic.in/index.php"
+                }
+              ],
+              "Jobs": [
+                "Lieutenant",
+                "Lt. Commander",
+                "Commander"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Others Courses",
+          "SubPassion": [
+            {
+              "Name": "Hotel Management",
+              "Types": [
+                "Hotel Management"
+              ],
+              "Courses": [
+                "Courses (2 - 3 years)"
+              ],
+              "Exams": [
+                {
+                  "Name": "UPSEE - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "www.upsee.nic.in"
+                },
+                {
+                  "Name": "NCHMCT JEE",
+                  "Desc": "NATIONAL COUNCIL FOR HOTEL MANAGEMENT AND CATERING TECHNOLOGY JOINT ENTRANCE EXAMINATION",
+                  "Site": "http://nchm.nic.in/"
+                },
+                {
+                  "Name": "AIMA UGAT - ALL INDIA MANAGEMENT ASSOCIATION UNDER GRADUATE APTITUDE TEST",
+                  "Desc": "It is a National Level exam conducted annually by All India Management Association (AIMA). This test is conducted to screen the capable candidates for admission in various courses such as BBA, BCA, Integrated MBA, BHM, B. Com, etc.",
+                  "Site": "www.aima.in"
+                },
+                {
+                  "Name": "CUCET - CENTRAL UNIVERSITIES COMMON ENTRANCE TEST",
+                  "Desc": "CUCET is a national level examination, for admission into various UG, PG & other courses",
+                  "Site": "https://www.cucetexam.in/"
+                },
+                {
+                  "Name": "IIHM ECHAT - ELECTRONIC COMMON HOSPITALITY APTITUDE TEST",
+                  "Desc": "An online national level exam conducted by International Institute of Hotel Management to give admission to candidates in various hotel management programs offered by participating institutes across India.",
+                  "Site": "https://www.iihm.ac.in/"
+                },
+                {
+                  "Name": "VEE - VELS ENTRANCE EXAMINATION",
+                  "Desc": "VEE is a qualifying entrance exam for admission to UG and PG programs offered by VELS University Chennai",
+                  "Site": "http://www.velsuniv.ac.in/school-hotel-catering-management.asp"
+                },
+                {
+                  "Name": "MAH BHMCT CET - MAHARASHTRA HOTEL MANAGEMENT COMMON ENTRANCE TEST",
+                  "Desc": "MAH BHMCT CET is conducted for admission to Bachelor of Hotel Management and Catering Technology programs offered by the government, government-aided and unaided self-financed institutions",
+                  "Site": "www.dtemaharashtra.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Club Management",
+                "Hotels and Restaurants",
+                "Hospital Administration and Catering",
+                "Airline Catering and Cabin Services",
+                "Guest Houses",
+                "Cruise Ship Hotel Management",
+                "Forest Lodges",
+                "Hotel & Catering Institutes"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Journalism",
+              "Types": [
+                "Journalism"
+              ],
+              "Courses": [
+                " Diploma Courses (6 months/ 1year)" , "Degree Courses (2 - 3 years)"
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "http://www.ipu.ac.in/"
+                },
+                {
+                  "Name": "CUCET - CENTRAL UNIVERSITIES COMMON ENTRANCE TEST",
+                  "Desc": "The Central Universities Common Entrance Test is an all-India test is being organized for admission to various Integrated/Under-Graduate, Post Graduate and Research Programmes in several Central Universities and State Universities of India",
+                  "Site": "https://www.cucetexam.in/"
+                },
+                {
+                  "Name": "XIC OET - XAVIER INSTITUTE OF COMMUNICATION ONLINE ENTRANCE TEST",
+                  "Desc": "XIC OET is an entrance test being conducted by Xavier’s Institute of Communications, Mumbai, for admission to various PG courses being offered by it in the field of mass communication",
+                  "Site": "https://www.xaviercomm.org/admissions/admissions.htm"
+                },
+                {
+                  "Name": "KIITEE - KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY ENTRANCE EXAM",
+                  "Desc": "KIITEE is conducted by KIIT for admission to UG, PG engineering and law courses",
+                  "Site": "www.ksom.ac.in"
+                },
+                {
+                  "Name": "ACJ ENTRANCE EXAM - ASIAN COLLEGE OF JOURNALISM ENTRANCE EXAM",
+                  "Desc": "ACJ (Asian College of Journalism) Entrance Examination 2020 is conducted to admit eligible candidates to PG courses in the field of Journalism. It is a national level examination ",
+                  "Site": "www.asianmedia.in"
+                },
+                {
+                  "Name": "FTII ENTRANCE EXAM - FILM AND TELEVISION INSTITUTE OF INDIA ENTRANCE EXAM",
+                  "Desc": "FTII Entrance Exam (FTII JET) was conducted by Film and Television Institute of India",
+                  "Site": "http://www.ftiindia.com/"
+                },
+                {
+                  "Name": "IIMC - INDIAN INSTITUTE OF MASS COMMUNICATION",
+                  "Desc": "IIMC Entrance Exam is a university-level test conducted by Indian Institute of Mass Communication for admission to PG Diploma courses in Journalism, PR and Advertising and Radio and TV Journalism offered at 6 campuses affiliated to the institute",
+                  "Site": "www.iimc.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Content marketer",
+                "Corporate communications specialist",
+                "Editor",
+                "Public relations specialist",
+                "Reporter",
+                "Social media specialist"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Home Science and Art",
+              "Types": [
+                "Home Science", "Social Science","Art"
+              ],
+              "Courses": [
+                "Private Courses 6 months/ 1year" , "Degree Course 2 - 3 years"
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS NPAT (NMIMS Programs After 12th) is the authorized entrance exam for admissions to Undergraduate Degree and Integrated Degree Programs in Narsee Monjee Institute of Management Studies or the NMIMS University",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "HU UET is conducted by Banaras Hindu University for granting admission to students in its BA, B.Sc, B.Com, B.Ed, B.P.Ed, LLB, B.VSc, BPA and BFA  programs",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "UPES DAT - UNIVERSITY OF PETROLEUM AND ENERGY STUDIES DESIGN APTITUDE TEST",
+                  "Desc": "Design Aptitude Test (DAT) is conducted by University of Petroleum and Energy Studies (UPES). The online entrance exam is conducted for admission into various undergraduate and postgraduate design courses offered by the college under its School of Design Studies (SoDS)",
+                  "Site": "https://www.upes.ac.in/bdes-admission"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "DU JAT - DELHI UNIVERSITY JOINT ADMISSION TEST",
+                  "Desc": "DU JAT is conducted by Delhi University for admission in various undergraduate programs like BMS, BBA etc",
+                  "Site": "http://www.du.ac.in/"
+                },
+                {
+                  "Name": "TISS BAT - TATA INSTITUTE OF SOCIAL SCIENCES BACHELOR ADMISSION TEST",
+                  "Desc": "TISS BAT, elaborated as Tata Institute of Social Sciences Bachelor Admission Test is an entrance exam that is conducted by Tata Institute of Social Sciences",
+                  "Site": "www.tiss.edu"
+                },
+                {
+                  "Name": "JSAT - JINDAL SCHOLASTIC APTITUDE TEST",
+                  "Desc": "JSAT 2020 (Jindal Scholastic Aptitude Test) is an International level entrance exam conducted by O.P. Jindal Global University (JGU) for granting admission to students into its UG programs – BBA(H), B.Com(H), Integrated BBA+MBA, BA (H) Economics, Political Science, Global Affairs, Social Science & Policy, Liberal Arts & Humanities, Journalism & Media Studies, and Built Environment Studies.",
+                  "Site": "www.jgbs.edu.in"
+                },
+                {
+                  "Name": "UPSEE 2020 - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "www.upsee.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Assistant Dietician",
+                "Health Educator",
+                "Executive chef",
+                "Product Executive",
+                "Healthcare counselor"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Vocational Courses",
+              "Types": [
+                "Event management",
+                "International trade management",
+                "English Communication & Presentation skills",
+                "Beauty care",
+                "Food preservation/ production and many others",
+                "Catering management",
+                "Craft and Design"
+              ],
+              "Courses": [
+                "Private Diploma Courses (6 months/ 1year )", "Degree Courses (2-3 years)"
+              ],
+              "Exams": [
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "BHU UET is conducted by Banaras Hindu University for granting admission to students in its BA, B.Sc, B.Com, B.Ed, B.P.Ed, LLB, B.VSc, BPA and BFA  programs. ",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "AIEED - ALL INDIA ENTRANCE EXAMINATION FOR DESIGN",
+                  "Desc": "AIEED or All India Entrance Examination for Design is a national level entrance exam conducted by ARCH Academy of Design for admissions to Undergraduate and Post-Graduate programs in Design.",
+                  "Site": "www.aieed.com"
+                },
+                {
+                  "Name": "IICD - INDIAN INSTITUTE OF CRAFTS AND DESIGN",
+                  "Desc": "https://www.iicd.ac.in/en/",
+                  "Site": "IICD Entrance Exam is a national level exam for admitting candidates into B. Des and M. Des programs offered by Indian Institute of Crafts and Design"
+                },
+                {
+                  "Name": "CUCET - CENTRAL UNIVERSITIES COMMON ENTRANCE TEST",
+                  "Desc": "CUCET is a national level examination, for admission into various UG, PG & other courses",
+                  "Site": "https://www.cucetexam.in/"
+                },
+                {
+                  "Name": "UPSEE - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "It is a state-level exam for candidates seeking admission in various UG and PG courses",
+                  "Site": "www.upsee.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Designing",
+              "Types": [
+                "Jewelry Designing",
+                "Fashion Designing",
+                "Interior Designing",
+                "Footware Design"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )", "Degree Courses (3-4 years)"
+              ],
+              "Exams": [
+                {
+                  "Name": "NIFT - NATIONAL INSTITUTE OF FASHION TECHNOLOGY ENTRANCE TEST",
+                  "Desc": "4 Years Bachelor in Design/Bachelor in Fashion Technology; 2 Years Master in Design/Fashion Management and Master in Fashion Technology",
+                  "Site": "www.nift.ac.in"
+                },
+                {
+                  "Name": "AIEED - ALL INDIA ENTRANCE EXAMINATION FOR DESIGN",
+                  "Desc": "AIEED or All India Entrance Examination for Design is a national level entrance exam conducted by ARCH Academy of Design for admissions to Undergraduate and Post-Graduate programs in Design",
+                  "Site": "www.aieed.com"
+                },
+                {
+                  "Name": "IICD - INDIAN INSTITUTE OF CRAFTS AND DESIGN",
+                  "Desc": "IICD Entrance Exam is a national level exam for admitting candidates into B. Des and M. Des programs offered by Indian Institute of Crafts and Design. ",
+                  "Site": "https://www.iicd.ac.in/en/"
+                },
+                {
+                  "Name": "UCEED - UNDERGRADUATE COMMON ENTRANCE EXAMINATION FOR DESIGN",
+                  "Desc": "IIT Bombay conducts UCEED (Undergraduate Common Entrance Examination for Design) for the candidates to get admission into Bachelor of Design (B.Design) program at IIT Bombay, IIT Guwahati, IIT Hyderabad and IITDM Jabalpur",
+                  "Site": "http://www.uceed.iitb.ac.in/"
+                },
+                {
+                  "Name": "NID - NATIONAL INSTITUTE OF DESIGN ENTRANCE EXAM",
+                  "Desc": "NID DAT is a national level entrance exam conducted by National Institute of Design for various B.Des/ GDPD and M.Des Courses.",
+                  "Site": "www.admissions.nid.edu"
+                },
+                {
+                  "Name": "IIAD ENTRANCE EXAM - INDIAN INSTITUTE OF ART AND DESIGN ENTRANCE EXAM",
+                  "Desc": "IIAD (Indian Institute of Art and Design) 2020 Entrance Exam is conducted by Indian Institute of Art and Design for admission in bachelor programs like Fashion Designing, Interior Designing and communication designing.",
+                  "Site": "https://www.iiad.edu.in/"
+                },
+                {
+                  "Name": "CUCET - CENTRAL UNIVERSITIES COMMON ENTRANCE TEST",
+                  "Desc": "CUCET is a national level examination, for admission into various UG, PG & other courses",
+                  "Site": "https://www.cucetexam.in/"
+                },
+                {
+                  "Name": "VITEEE - VELLORE INSTITUTE OF TECHNOLOGY ENGINEERING ENTRANCE EXAMINATION",
+                  "Desc": "VITEEE is a national level entrance exam for admission design programs.",
+                  "Site": "www.vit.ac.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS NPAT (NMIMS Programs After 12th) is the authorized entrance exam for admissions to Undergraduate Degree and Integrated Degree Programs in Narsee Monjee Institute of Management Studies or the NMIMS University.",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "FDDI AIST - FOOTWEAR DESIGN AND DEVELOPMENT INSTITUTE ALL INDIA SELECTION TEST",
+                  "Desc": "FDDI Entrance Test (FDDI AIST) is a paper-based exam conducted for admission to various Bachelor’s Degree & Master’s Degree Programmes offered by the institute.",
+                  "Site": "https://www.fddiindia.com/admission-process.php\""
+                }
+              ],
+              "Jobs": [
+                "RETAIL MANAGER",
+                "STYLIST",
+                "TEXTILE DESIGNER",
+                "JEWELLERY / FOOTWEAR DESIGNER",
+                "PERSONAL SHOPPER",
+                "MAKE UP ARTIST",
+                "FASHION MAGAZINE/FASHION BLOGGER",
+                "Start your own  Design Firm",
+                "Product Designer"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Film making",
+              "Types": [
+                "Direction",
+                "Screen Writing",
+                "Cinematography",
+                "Sound designee",
+                "Editing",
+                "Action"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "FTII ENTRANCE EXAM - FILM AND TELEVISION INSTITUTE OF INDIA ENTRANCE EXAM",
+                  "Desc": "FTII Entrance Exam (FTII JET) was conducted by Film and Television Institute of India",
+                  "Site": "http://www.ftiindia.com/"
+                },
+                {
+                  "Name": "NSD Screening Test",
+                  "Desc": "National School of Drama Entrance Exam acronym as NSD Entrance Exam is conducted by the institute to provide admission to the three years Diploma Course in Dramatic Arts",
+                  "Site": "https://nsd.gov.in/"
+                },
+                {
+                  "Name": "AISF Entrance Exam - Annapurna College of Film and Media",
+                  "Desc": "Annapurna College of Film and Media is a Film School based in Hyderabad, India. It's India’s first private, non-profit media school. The institute was founded by the Akkineni family, including Akkineni Nagarjuna and Akkineni Nageswara Rao",
+                  "Site": "https://www.aisfm.edu.in/courses/"
+                },
+                {
+                  "Name": "SRFTI Entrance Exam",
+                  "Desc": "Named after the  legendary film maestro Satyajit Ray, the Institute has emerged as a national center of excellence which offers post-graduate program  in Cinematic studies",
+                  "Site": "http://srfti.ac.in/"
+                }
+              ],
+              "Jobs": [
+                "Cinematographer",
+                "First Assistant Director (1st AD)",
+                "Screenwriter",
+                "Technical Director (TD)",
+                "Casting Director"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Management",
+              "Types": [
+                "Event Management",
+                "Tourism Management",
+                "Business Management"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )", "Degree Course 2-3 years"
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "Guru Gobind Singh Indraprastha University, formerly Indraprastha University, is a Public university located in Delhi, India. It was established in 1998 by Government of Delhi, as a teaching-cum-affiliating university",
+                  "Site": "www.aprs.cgg.gov.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS-NPAT  (for NMIMS Programs after 12th) is the official entrance test for admissions to Undergraduate Degree and Integrated Degree Programs.",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "BUMAT",
+                  "Desc": "BHARATI VIDYAPEETH UNDERGRADUATE MANAGEMENT APTITUDE TEST",
+                  "Site": "https://bvuniversity.edu.in/"
+                },
+                {
+                  "Name": "IIHM ECHAT",
+                  "Desc": "One of the best hotel management colleges in India that offers globally recognised International degree in Hospitality Management",
+                  "Site": "https://www.iihm.ac.in/"
+                },
+                {
+                  "Name": "APIIT NAT ",
+                  "Desc": "APIIT College is the best engineering colleges in Panipat, Haryana, India. It deserves top position in the list of management colleges with experience faculty",
+                  "Site": "https://www.apiit.edu.in/"
+                },
+                {
+                  "Name": "DU JAT ",
+                  "Desc": "DU JAT or Delhi University Joint Admission Test is a national level entrance exam conducted for admission to professional undergraduate programmes offered by 16 colleges affiliated to Delhi University.",
+                  "Site": "http://www.du.ac.in/"
+                },
+                {
+                  "Name": "IEMJEE ",
+                  "Desc": "IEMJEE  is being conducted by the reputed IEM group for admission to B.Tech/ BCA(H)/ BBA(H)/ BPT/ M.Tech/ MCA/ M.Sc/ MBA courses of IEM (Institute of Engineering & Management) Group and UEM (University of Engineering & Management",
+                  "Site": "https://uem.edu.in/iemjee-2020/"
+                },
+                {
+                  "Name": "AIMA UGAT ",
+                  "Desc": "AIMA UGAT is a screening test for Undergraduate Courses such as Integrated MBA, BBA, BCA, BHM, B.Com. It is conducted annually by the All India Management Association",
+                  "Site": "https://www.aima.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "marketing managers",
+                "financial managers",
+                "strategic mangers",
+                "operations managers",
+                "human resource managers"              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "Accounting & Finance",
+          "SubPassion": [
+            {
+              "Name": "Accounting & Finance",
+              "Types": [
+                "ICWA", "CS", "CA"
+              ],
+              "Courses": [
+                "ICWA", "CS", "CA", "CMA","CFP","CFA"
+              ],
+              "Exams": [
+                {
+                  "Name": "CA ( Chartered Accountant",
+                  "Desc": "This is the best professional course for building a prosperous career in commerce. It can establish you as Tax Consultant, an Auditor, an Advisor, and a Financial Officer and also secure a corporate job for you with a handsome salary. However, it demands very hard work and sincere effort as here you need to do Foundation, Intermediate and Final levels. This professional course is provided by The Institute of Chartered Accountants of India (ICAI)",
+                  "Site": "https://www.icai.org//"
+                },
+                {
+                  "Name": "Company Secretary",
+                  "Desc": "This course is provided by The Institute of Company Secretaries of India (ICSI).Nowadays, CA & CS combination is a common choice among students.",
+                  "Site": "https://www.icsi.edu//"
+                },
+                {
+                  "Name": "Cost and Management Accountant (CMA)",
+                  "Desc": "This course is provided by The Institute of Cost Accountants of India (ICWAI). It helps in planning, controlling, and costing of products",
+                  "Site": "https://icmai.in/icmai/"
+                },
+                {
+                  "Name": "Accountant Technician Course (CFP)",
+                  "Desc": "This is to build a career in areas of Personal Finance, Wealth Management, Insurance Planning, Mutual Fund investing. Financial Planning Standard Board India (FPSB) is the principal licensing body that awards a CFP license.",
+                  "Site": "https://www.cfp.net/"
+                },
+                {
+                  "Name": "Chartered Financial Analyst",
+                  "Desc": "The CFA Program is  designed to equip you with the kind of expertise and real-world skills in investment analysis ",
+                  "Site": "https://www.cfainstitute.org/"
+                },
+                {
+                  "Name": "ICWA",
+                  "Desc": "The Institute of cost accountants of India",
+                  "Site": "https://icmai.in/studentswebsite/Admission.php"
+                }
+              ],
+              "Jobs": [
+                "Financial Controller",
+                "Chief Accountant",
+                "Cost Controller",
+                "Marketing Manager",
+                "Chief Internal Auditor",
+                "Taxation Advisory (Both Direct and Indirect)"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Teaching",
+          "SubPassion": [
+            {
+              "Name": "Teaching",
+              "Types": [
+                "D. Ed.", "UDPED","ECCED"
+              ],
+              "Courses": [
+                "D. Ed (2 Years - D.Ed entrance - Primary School Teache)","UDPED  (2 Years - PET Teacher)", "ECCED (Early Childhood care Education)"
+              ],
+              "Exams": [
+                {
+                  "Name": "TISSNET - TATA INSTITUTE OF SOCIAL SCIENCES NATIONAL ENTRANCE TEST",
+                  "Desc": "Tata Institute of Social Sciences conducted TISSNET (National Eligibility Test) in online mode to offer admissions to students into the postgraduate programs in one of its campuses.",
+                  "Site": "www.admissions.tiss.edu"
+                },
+                {
+                  "Name": "BHU UET ",
+                  "Desc": "BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Site": "www.upsc.gov.in"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "CG PRE BED  - CHHATTISGARH PRE BED",
+                  "Desc": "CG Pre-B.Ed. Entrance is a state-level exam held for candidates who want to pursue a professional course for teaching",
+                  "Site": "www.cgvyapam.choice.gov.in"
+                },
+                {
+                  "Name": "MP PRE BED",
+                  "Desc": "MP VYAPAM (Madhya Pradesh Professional Examination Board), Bhopal conducts B.Ed entrance exam to select the right candidates for the Bachelor of Education courses",
+                  "Site": "https://hed.mponline.gov.in/portal/services/HED/HomeCouns.aspx"
+                },
+                {
+                  "Name": "CUCET - CENTRAL UNIVERSITIES COMMON ENTRANCE TEST",
+                  "Desc": "CUCET is a national level examination, for admission into various UG, PG & other courses",
+                  "Site": "https://www.cucetexam.in/"
+                },
+                {
+                  "Name": "BHU PET - BANARAS HINDU UNIVERSITY POSTGRADUATE ENTRANCE TEST",
+                  "Desc": "BHU PET is University Level Post Graduation Entrance Exam conducted by Banaras Hindu University in Varanasi, Uttar Pradesh, for admission to General, Professional, Special and Vocational Courses",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "IGNOU BED ENTRANCE TEST - IGNOU BACHELOR OF EDUCATION ENTRANCE TEST",
+                  "Desc": "IGNOU B. Ed Entrance Test is an all-India level entrance test conducted by National Testing Agency (NTA) on behalf of Indira Gandhi National Open University (IGNOU).",
+                  "Site": "www.upsc.gov.in"
+                },
+                {
+                  "Name": "IPU CET  - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "Guru Gobind Singh Indraprastha University, formerly Indraprastha University, is a Public university located in Delhi, India. It was established in 1998 by Government of Delhi, as a teaching-cum-affiliating university.",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "BEET - BACHELOR OF EDUCATION ENTRANCE TEST",
+                  "Desc": "BEET  is a state level exam conducted for candidates aspiring for admission to B.Ed program",
+                  "Site": "http://www.patnauniversity.ac.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Degree",
+          "SubPassion": [
+            {
+              "Name": "BA",
+              "Types": [
+                "BA", "Bed", "Integrated"
+              ],
+              "Courses": [
+                "BA 3 years course", "BA-Bed Integrated 5 years course"
+
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS NPAT (NMIMS Programs After 12th) is the authorized entrance exam for admissions to Undergraduate Degree and Integrated Degree Programs in Narsee Monjee Institute of Management Studies or the NMIMS University",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "HU UET is conducted by Banaras Hindu University for granting admission to students in its BA, B.Sc, B.Com, B.Ed, B.P.Ed, LLB, B.VSc, BPA and BFA  programs",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "UPES DAT - UNIVERSITY OF PETROLEUM AND ENERGY STUDIES DESIGN APTITUDE TEST",
+                  "Desc": "Design Aptitude Test (DAT) is conducted by University of Petroleum and Energy Studies (UPES). The online entrance exam is conducted for admission into various undergraduate and postgraduate design courses offered by the college under its School of Design Studies (SoDS)",
+                  "Site": "https://www.upes.ac.in/bdes-admission"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "DU JAT - DELHI UNIVERSITY JOINT ADMISSION TEST",
+                  "Desc": "DU JAT is conducted by Delhi University for admission in various undergraduate programs like BMS, BBA etc",
+                  "Site": "http://www.du.ac.in/"
+                },
+                {
+                  "Name": "TISS BAT - TATA INSTITUTE OF SOCIAL SCIENCES BACHELOR ADMISSION TEST",
+                  "Desc": "TISS BAT, elaborated as Tata Institute of Social Sciences Bachelor Admission Test is an entrance exam that is conducted by Tata Institute of Social Sciences",
+                  "Site": "www.tiss.edu"
+                },
+                {
+                  "Name": "JSAT - JINDAL SCHOLASTIC APTITUDE TEST",
+                  "Desc": "JSAT 2020 (Jindal Scholastic Aptitude Test) is an International level entrance exam conducted by O.P. Jindal Global University (JGU) for granting admission to students into its UG programs – BBA(H), B.Com(H), Integrated BBA+MBA, BA (H) Economics, Political Science, Global Affairs, Social Science & Policy, Liberal Arts & Humanities, Journalism & Media Studies, and Built Environment Studies.",
+                  "Site": "www.jgbs.edu.in"
+                },
+                {
+                  "Name": "UPSEE 2020 - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "www.upsee.nic.in"
+                }
+              ],
+              "Jobs": [
+                "School Teachers",
+                "Private Tutor",
+                "Education Consultant",
+                "Principal"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "B.Com.",
+              "Types": [
+                "B.Com. - Regular",
+                "B.Com. - Computer",
+                "B.Com. - Bank Management",
+                "B.Com. - Tax Process"
+              ],
+              "Courses": [
+                "3 Years Courses"
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS NPAT (NMIMS Programs After 12th) is the authorized entrance exam for admissions to Undergraduate Degree and Integrated Degree Programs in Narsee Monjee Institute of Management Studies or the NMIMS University",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "HU UET is conducted by Banaras Hindu University for granting admission to students in its BA, B.Sc, B.Com, B.Ed, B.P.Ed, LLB, B.VSc, BPA and BFA  programs",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "UPES DAT - UNIVERSITY OF PETROLEUM AND ENERGY STUDIES DESIGN APTITUDE TEST",
+                  "Desc": "Design Aptitude Test (DAT) is conducted by University of Petroleum and Energy Studies (UPES). The online entrance exam is conducted for admission into various undergraduate and postgraduate design courses offered by the college under its School of Design Studies (SoDS)",
+                  "Site": "https://www.upes.ac.in/bdes-admission"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "DU JAT - DELHI UNIVERSITY JOINT ADMISSION TEST",
+                  "Desc": "DU JAT is conducted by Delhi University for admission in various undergraduate programs like BMS, BBA etc",
+                  "Site": "http://www.du.ac.in/"
+                },
+                {
+                  "Name": "TISS BAT - TATA INSTITUTE OF SOCIAL SCIENCES BACHELOR ADMISSION TEST",
+                  "Desc": "TISS BAT, elaborated as Tata Institute of Social Sciences Bachelor Admission Test is an entrance exam that is conducted by Tata Institute of Social Sciences",
+                  "Site": "www.tiss.edu"
+                },
+                {
+                  "Name": "JSAT - JINDAL SCHOLASTIC APTITUDE TEST",
+                  "Desc": "JSAT 2020 (Jindal Scholastic Aptitude Test) is an International level entrance exam conducted by O.P. Jindal Global University (JGU) for granting admission to students into its UG programs – BBA(H), B.Com(H), Integrated BBA+MBA, BA (H) Economics, Political Science, Global Affairs, Social Science & Policy, Liberal Arts & Humanities, Journalism & Media Studies, and Built Environment Studies.",
+                  "Site": "www.jgbs.edu.in"
+                },
+                {
+                  "Name": "UPSEE 2020 - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "www.upsee.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Chartered Accountancy (CA)",
+                "Company Secretary (CS)",
+                "Master of Commerce (M.Com)",
+                "Chartered Financial Analyst (CFA)",
+                "Business Accounting and Taxation (BAT)",
+                "Certified Management Accountant (CMA)",
+                "US Certified Public Accounting (CPA)",
+                "Financial Risk Manager (FRM)",
+                "Lecturer",
+                "Banker",
+                "Government or private Jobs"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "B.Sc.",
+              "Types": [
+                "B.Sc. - PCM",
+                "B.Sc. - MEC",
+                "B.Sc. - Applied Maths",
+                "B.Sc. - CPZ",
+                "B.Sc. - BZC/CBZ",
+                "B.Sc. - Horticulture",
+                "B.Sc. - Computer Science",
+                "B.Sc. - Home Science",
+                "B.Sc. - Bio-Chemistry",
+                "B.Sc. - Micro biology",
+                "B.Sc. - Bio Tech",
+                "B.Sc. - Dairy Science",
+                "B.Sc. - AnthroP"
+              ],
+              "Courses": [
+                "3 Years Courses"
+              ],
+              "Exams": [
+                {
+                  "Name": "JEE ADVANCED - JOINT ENTRANCE EXAMINATION ADVANCED",
+                  "Desc": "JEE Advanced is applicable for admission in Bachelor’s, Integrated Master’s and Dual Degree programs in IITs.",
+                  "Site": "http://www.jeeadv.ac.in/aprogrammes.php"
+                },
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "TISSNET - TATA INSTITUTE OF SOCIAL SCIENCES NATIONAL ENTRANCE TEST",
+                  "Desc": "Tata Institute of Social Sciences conducted TISSNET (National Eligibility Test) in online mode to offer admissions to students into the postgraduate programs in one of its campuses",
+                  "Site": "www.admissions.tiss.edu"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "MDUCEE 2020 - MAHARSHI DAYANAND UNIVERSITY COMMON ENTRANCE EXAM",
+                  "Desc": "Maharshi Dayanand University Common Entrance Exam (MDUCEE) is a state-level entrance test conducted for admission to various M.Sc and M.Pharma courses across seven universities of Haryana",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "IEMJEE - INSTITUTE OF ENGINEERING AND MANAGEMENT JOINT ENTRANCE EXAM",
+                  "Desc": "IEMJEE (Institute of Engineering and Management Joint Entrance Exam) is a university level exam conducted every year for admitting aspirants into various UG, PG and PhD programs offered by the University of Engineering and Management (UEM) at its 2 campuses - Kolkata and Jaipur.",
+                  "Site": "https://uem.edu.in/iemjee-2020/"
+                },
+                {
+                  "Name": "MET - MANIPAL ENTRANCE TEST",
+                  "Desc": "MET is a MAHE-level exam conducted by MAHE annually for admitting candidates to various UG and PG degree programs",
+                  "Site": "www.manipal.edu"
+                },
+                {
+                  "Name": "BHU PET - BANARAS HINDU UNIVERSITY POSTGRADUATE ENTRANCE TEST",
+                  "Desc": "BHU PET  is a university level Post Graduation Entrance Exam conducted by Banaras Hindu University in Varanasi, Uttar Pradesh. It is conducted to provide admission to General, Professional, Special and Vocational Courses. The university offers postgraduate programmes in the following streams: arts, commerce, social sciences, agriculture, and environment",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "IUET - INTEGRAL UNIVERSITY ENTRANCE TEST",
+                  "Desc": "IUET exam is conducted every year by integral University, Lucknow. It is a state level entrance exam for qualifying admission to U.G. and PG. Programmes",
+                  "Site": "www.admission.iul.ac.in"
+                }
+              ],
+              "Jobs": [
+                "M.Sc (Master of Science)",
+                "MCA (Master of Computer Application)",
+                "MBA (Master of Business Administration)",
+                "Operation Manager"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Law/ Lawyer",
+              "Types": [
+                "LLB"
+              ],
+              "Courses": [
+                "LLB 3 Years Courses"
+              ],
+              "Exams": [
+                  {
+                    "Name": "LSAT - LAW SCHOOL ADMISSION TEST",
+                    "Desc": "BA, Bed, LLB",
+                    "Site": "http://www.discoverlaw.in"
+                  },
+                  {
+                  "Name": "DU LLB - DU LLB ENTRANCE EXAM",
+                  "Desc": "DU LLB Entrance Exam is a university level test conducted annually to shortlist aspirants for admission in 3-year LLB",
+                  "Site": "www.lawfaculty.du.ac.in"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU. Candidates must have a bachelor's degree with minimum 50% marks from the recognized university.",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "AMU BA LLB - ALIGARH MUSLIM UNIVERSITY LAW ENTRANCE EXAMINATION",
+                  "Desc": "Aligarh Muslim University is a public university in Aligarh",
+                  "Site": "www.amucontrollerexams.com"
+                },
+                {
+                  "Name": "PU LLB - PANJAB UNIVERSITY LAW ENTRANCE EXAM",
+                  "Desc": "Punjab University (PU) conducts the entrance examination for admission of eligible candidates into three years LLB Programme",
+                  "Site": "http://puchd.ac.in"
+                },
+                {
+                  "Name": "IUET - INTEGRAL UNIVERSITY ENTRANCE TEST",
+                  "Desc": "IUET is a state level entrance exam for admission into U.G. and PG. Programmes”. IUET exam is conducted every year by integral University, Lucknow. It is a state level entrance exam for qualifying admission to U.G. and PG. Programmes",
+                  "Site": "http://iul.ac.in/iuet_syllabus.aspx"
+                },
+                {
+                  "Name": "JMI BA LLB - JAMIA MILLIA ISLAMIA BA LLB",
+                  "Desc": "Jamia Millia Islamia is a Central University located in Jamia Nagar, New Delhi, India. Originally established at Aligarh, United Provinces during the British Raj in 1920, it moved to its current location in Okhla in 1935",
+                  "Site": "www.jmi.ac.in"
+                },
+                {
+                  "Name": "AIBE - ALL INDIA BAR EXAMINATION",
+                  "Desc": "AIBE, All India Bar Examination, is a national level exam conducted byBar Council of India (BCI) with the objective of assessing the capability of advocates who want to practice law in India.",
+                  "Site": "http://www.allindiabarexamination.com/"
+                },
+                {
+                  "Name": "AILET - ALL INDIA LAW ENTRANCE TEST",
+                  "Desc": "All India Law Entrance Test, or AILET, is conducted for admission to law courses in NLUD",
+                  "Site": "www.nludelhi.ac.in/ailet2020"
+                },
+                {
+                  "Name": "ACLAT - ALLIANCE UNIVERSITY COMMON LAW ADMISSION TEST",
+                  "Desc": "ACLAT (Alliance University Common Law Admission Test) is conducted by Alliance School of Law for admissions to various undergraduate law courses in the University. The exam is held across 10 exam cities in the country",
+                  "Site": "http://alliance.edu.in/"
+                }
+              ],
+              "Jobs": [
+                "Advocate. Advocacy is one of the chief professions chosen by LLB graduates",
+                "Government Services. Students can opt to join Government Services after completing their LLB",
+                "Legal Advisor",
+                "Judiciary",
+                "Teaching",
+                "Legal Outsourcing",
+                "Private Companies",
+                "Higher Education"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "2",
+      "Name": "After Graduation",
+      "Passion": [
+        {
+          "Name": "Engineering Student",
+          "SubPassion": [
+            {
+              "Name": "Engineering Student",
+              "Types": [
+                "Mtech",
+                "ME"
+              ],
+              "Courses": [
+                "Mtech",
+                "ME"
+              ],
+              "Exams": [
+                {
+                  "Name": "GATE - GRADUATE APTITUDE TEST IN ENGINEERING",
+                  "Desc": "The Graduate Aptitude Test in Engineering is an examination that primarily tests the comprehensive understanding of various undergraduate subjects in engineering and science",
+                  "Site": "http://gate.iitd.ac.in/"
+                },
+                {
+                  "Name": "XAT -  XAVIER APTITUDE TEST",
+                  "Desc": "Xavier’s Aptitude Test (XAT) is a national level test organised by XLRI, Jamshedpur on behalf of Xavier Association of Management Institutes. It is a gateway to XAMI member institutes and over 700 B schools across India for their MBA/ PGDM programs.",
+                  "Site": "www.xatonline.in"
+                },
+                {
+                  "Name": "BITS HD - BITS HD ADMISSION TEST",
+                  "Desc": "Birla Institute of Technical Science (BITS) conducts the BITS HD Admission Test for the interested students aiming to get admission to Higher Degree Program. (M.E and M.Pharm)",
+                  "Site": "https://www.bitsadmission.com/hdmain.aspx"
+                },
+                {
+                  "Name": "GRE - GRADUATE RECORD EXAMINATION",
+                  "Desc": "GRE is one of the most popular exams for graduate applicants seeking a masters or doctoral degree such as an MS, MBA, JD, or Ph.D.",
+                  "Site": "https://www.ets.org/gre"
+                },
+                {
+                  "Name": "MET- MANIPAL ENTRANCE TEST",
+                  "Desc": "MET is a MAHE-level exam conducted by MAHE annually for admitting candidates to various UG and PG degree programs.",
+                  "Site": "www.manipal.edu"
+                },
+                {
+                  "Name": "BHU PET- BANARAS HINDU UNIVERSITY POSTGRADUATE ENTRANCE TEST",
+                  "Desc": "BHU PET  is a university level Post Graduation Entrance Exam conducted by Banaras Hindu University in Varanasi, Uttar Pradesh. It is conducted to provide admission to General, Professional, Special and Vocational Courses.",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "DUET- DELHI UNIVERSITY ENTRANCE TEST",
+                  "Desc": "Delhi University Entrance Test (DUET) is an online entrance exam conducted by the National Testing Agency (NTA) for the candidates seeking admission in UG, PG, M.Phil., and PhD courses offered by Delhi University.",
+                  "Site": "www.du.ac.in/du"
+                }
+              ],
+              "Jobs": [
+                "Higher Studies Phd",
+                "Public Service Undertakings",
+                "Management or Management Course",
+                "Entrepreneurship",
+                "Become an Expert, Consultancy",
+                "Civil Services",
+                "Private sector job",
+                "Education line"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "Medical Student",
+          "SubPassion": [
+            {
+              "Name": "Medical Student",
+              "Types": [
+                "MS",
+                "MD",
+                "Phd"
+              ],
+              "Courses": [
+                "MS - 3 Years Course",
+                "MD - 3 Years Course"
+              ],
+              "Exams": [
+                {
+                  "Name": "PGIMER-POST GRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH",
+                  "Desc": "PGIMER 2020 Exam is conducted by Post Graduate Institute of Medical Education & Research, Chandigarh to grant admissions to students in its PG courses such as MD, MS, DM, MDS (Master of Dental Surgery) and other PG courses.",
+                  "Site": "www.pgimer.edu.in"
+                },
+                {
+                  "Name": "NEET PG-NATIONAL ELIGIBILITY CUM ENTRANCE EXAMINATION POST GRADUATE",
+                  "Desc": "NEET PG is a national level entrance exam organized by National Board of Examinations (NBE) every year to grant admission to students in postgraduate medical courses offered by participating colleges in India.",
+                  "Site": "www.nbe.edu.in"
+                },
+                {
+                  "Name": "NEET MDS-NATIONAL ELIGIBILITY CUM ENTRANCE TEST FOR MASTERS OF DENTAL SURGERY",
+                  "Desc": "NEET MDS 2020 is an eligibility-cum-ranking examination prescribed as the single entrance examination for admission to MDS programs.",
+                  "Site": "www.nbe.edu.in"
+                },
+                {
+                  "Name": "AIIMS PG - AIIMS MSC ENTRANCE EXAMINATION",
+                  "Desc": "AIIMS M.Sc 2020 exam had been conducted successfully on June 11, 2020. AIIMS M.Sc. 2020 is a national level entrance exam conducted every year for admitting aspirants into the Post Graduate science courses offered by the All India Institute of Medical Sciences, New Delhi and its affiliates. It offers various courses in M.Sc. (Nursing), M.Bio-tech and other M.Sc. programs.",
+                  "Site": "www.aiimsexams.org"
+                },
+                {
+                  "Name": "RUET-RAMA UNIVERSITY ENTRANCE TEST",
+                  "Desc": "RUET (Rama University Entrance Test) is a national aptitude test, for the aspirants of Graduate, Postgraduate, Research courses, offered by Rama University.",
+                  "Site": "www.ramauniversity.ac.in."
+                },
+                {
+                  "Name": "ISI ADMISSION TEST-INDIAN STATISTICAL INSTITUTE ADMISSION TEST",
+                  "Desc": "Indian Statistical Institute Admission(ISI) Test is an entrance exam is conducted by ISI Calcutta. The Admission Test is an eligibility test for candidates to get admission in B Stat (Hons), B. Math. (Hons), M Stat, M Math, MS (QE), MS (QMS), MS (LIS), M Tech (CS), M Tech (CrS), M Tech (QROR), PG Diplomas and Research Fellowships.",
+                  "Site": "www.aprs.cgg.gov.in"
+                },
+                {
+                  "Name": "JIPMER PG-JAWAHARLAL INSTITUTE OF POSTGRADUATE MEDICAL EDUCATION AND RESEARCH POST GRADUATE",
+                  "Desc": "JIPMER PG is a national level exam conducted by Jawaharlal Institute of Postgraduate Medical Education and Research Post Graduate, Puducherry, for admitting MBBS (or equivalent degree) students into MD and MS programs offered by the institute.",
+                  "Site": "wwww.jipmer.edu.in"
+                },
+                {
+                  "Name": "DNB CET-DIPLOMAT OF NATIONAL BOARD CENTRALIZED ENTRANCE TEST",
+                  "Desc": "DNB CET (Diplomate of National Board Centralized Entrance Test-Super Specialty) is a national level qualifying-cum-ranking entrance examination conducted by National Board of Examinations (NBE).Students interested in various Post-Graduate Courses in modern Medicine can apply for this examination.",
+                  "Site": "www.cet.natboard.edu.in"
+                },
+                {
+                  "Name": "NIPER JEE-NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH JOINT ENTRANCE EXAM",
+                  "Desc": "NIPER JEE 2020 (NIPER Joint Entrance Exam) is a national level entrance exam conducted by National Institute of Pharmaceutical Education and Research (NIPER). It is conducted to test the aptitude of eligible candidates seeking admission to various Postgraduate and Doctorate level courses in the field of Pharmacy.",
+                  "Site": "www.niperahm.ac.in"
+                },
+                {
+                  "Name": "IIITH PGEE-INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY HYDERABAD POST GRADUATE ENTRANCE EXAMINATION",
+                  "Desc": "IIITH PGEE is a national level exam conducted by IIIT Hyderabad. It is conducted for admission into Postgraduate and Research programs like M.Tech, M.S., Ph.D",
+                  "Site": "www.iiit.ac.in"
+                },
+                {
+                  "Name": "AJEE-AISECT JOINT ENTRANCE EXAM",
+                  "Desc": "AJEE is a national level entrance exam conducted by AISECT University, Bhopal for admission to various Undergraduate and Postgraduate courses",
+                  "Site": "www.ajee.aisectonline.com"
+                }
+              ],
+              "Jobs": [
+                "Government Jobs in health services departments",
+                "Defence Services: Jobs in Army, Navy and Air Force",
+                "Employment in Hospital Chains",
+                "Career in Health Administration/Hospital Management",
+                "Self-employment through private practice",
+                "Course for superspeciality"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "BA Student",
+          "SubPassion": [
+            {
+              "Name": "BA Student",
+              "Types": [],
+              "Courses": [
+                "MA - 2 years",
+                "B.Ed. - 2 years",
+                "MBA - 3 years",
+                "LLB - 3 years",
+                "Later Phd"
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS NPAT (NMIMS Programs After 12th) is the authorized entrance exam for admissions to Undergraduate Degree and Integrated Degree Programs in Narsee Monjee Institute of Management Studies or the NMIMS University",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "HU UET is conducted by Banaras Hindu University for granting admission to students in its BA, B.Sc, B.Com, B.Ed, B.P.Ed, LLB, B.VSc, BPA and BFA  programs",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "UPES DAT - UNIVERSITY OF PETROLEUM AND ENERGY STUDIES DESIGN APTITUDE TEST",
+                  "Desc": "Design Aptitude Test (DAT) is conducted by University of Petroleum and Energy Studies (UPES). The online entrance exam is conducted for admission into various undergraduate and postgraduate design courses offered by the college under its School of Design Studies (SoDS)",
+                  "Site": "https://www.upes.ac.in/bdes-admission"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "DU JAT - DELHI UNIVERSITY JOINT ADMISSION TEST",
+                  "Desc": "DU JAT is conducted by Delhi University for admission in various undergraduate programs like BMS, BBA etc",
+                  "Site": "http://www.du.ac.in/"
+                },
+                {
+                  "Name": "TISS BAT - TATA INSTITUTE OF SOCIAL SCIENCES BACHELOR ADMISSION TEST",
+                  "Desc": "TISS BAT, elaborated as Tata Institute of Social Sciences Bachelor Admission Test is an entrance exam that is conducted by Tata Institute of Social Sciences",
+                  "Site": "www.tiss.edu"
+                },
+                {
+                  "Name": "JSAT - JINDAL SCHOLASTIC APTITUDE TEST",
+                  "Desc": "JSAT 2020 (Jindal Scholastic Aptitude Test) is an International level entrance exam conducted by O.P. Jindal Global University (JGU) for granting admission to students into its UG programs – BBA(H), B.Com(H), Integrated BBA+MBA, BA (H) Economics, Political Science, Global Affairs, Social Science & Policy, Liberal Arts & Humanities, Journalism & Media Studies, and Built Environment Studies.",
+                  "Site": "www.jgbs.edu.in"
+                },
+                {
+                  "Name": "UPSEE 2020 - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "www.upsee.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Lecturer",
+               "Education Consultant",
+                "Education Counsellor",
+                "Program Manager",
+                "Human Resources (HR) Manager",
+                "Higher Study MPhil/ Phd"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "B.Sc. Student",
+          "SubPassion": [
+            {
+              "Name": "B.Sc. Student",
+              "Types": [
+                "M.Sc Maths",
+                "M.Sc Chemistry",
+                "M.Sc Botany",
+                "M.Sc Zoology",
+                "M.Sc Physics",
+                "M.Sc Home Science",
+                "M.Sc Anthrop",
+                "M.sc. Psychology",
+                "M.Sc Bio-Chemis",
+                "MSc Virology",
+                "M.Sc Micro biol",
+                "M.Sc. Bio-Technology"
+              ],
+              "Courses": [
+                "M.Sc.",
+                "B.Ed.",
+                "LLB",
+                "Later Job or Phd"
+              ],
+              "Exams": [
+                {
+                  "Name": "JNU CEEB - JAWAHARLAL NEHRU UNIVERSITY COMBINED ENTRANCE EXAMINATION FOR BIOTECHNOLOGY",
+                  "Desc": "JNU CEEB is a University Level Entrance exam, conducted for admission in various Postgraduate programs",
+                  "Site": "https://www.jnu.ac.in/admissions"
+                },
+                {
+                  "Name": "NEST - NATIONAL ENTRANCE SCREENING TEST",
+                  "Desc": "NEST is a national level entrance exam conducted for students seeking admission to 5-year Integrated MSc Program in Basic Sciences – Biology, Chemistry, Physics and Mathematics",
+                  "Site": "www.nestexam.in"
+                },
+                {
+                  "Name": "BITSAT 2020 - BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE ADMISSION TEST",
+                  "Desc": "BITSAT is a university level exam. BITSAT is conducted for admission in B.E, B.Pharma and M.Sc.",
+                  "Site": "www.bitsadmission.com"
+                },
+                {
+                  "Name": "ITM NEST - ITM NATIONAL ENTRANCE AND SCHOLARSHIP TEST",
+                  "Desc": "Nest provides admission  to Engineering, Management, Law, Pharmacy, Computer Science, Agriculture, Design and Art, Architecture and Design, Nursing, Fine Arts, Physical Education and Sports, and Education Programmes offered by ITM University",
+                  "Site": "www.itmuniversity.ac.in"
+                },
+                {
+                  "Name": "ISI ADMISSION TEST - INDIAN STATISTICAL INSTITUTE ADMISSION TEST",
+                  "Desc": "ISI Admission Test is conducted for admission in various Undergraduate and Postgraduate course",
+                  "Site": "https://www.isical.ac.in/~admission/"
+                },
+                {
+                  "Name": "IIT JAM - INDIAN INSTITUTE OF TECHNOLOGY JOINT ADMISSION TEST FOR MSC",
+                  "Desc": "IIT JAM is a national level online test conducted each year by any of the Indian Institutes of Technology on a rotational basis",
+                  "Site": "www.jam.iitk.ac.in"
+                },
+                {
+                  "Name": "CUSAT CAT - COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY COMMON ADMISSION TEST",
+                  "Desc": "CUSAT CAT is national level exam, conducted for admission to B.Tech, M.Tech, M.Phil, M.Voc, MCA, MBA, MA, M.Sc, LLB, BBA programs",
+                  "Site": "https://admissions.cusat.ac.in/"
+                },
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "TISSNET - TATA INSTITUTE OF SOCIAL SCIENCES NATIONAL ENTRANCE TEST",
+                  "Desc": "Tata Institute of Social Sciences conducted TISSNET (National Eligibility Test) in online mode to offer admissions to students into the postgraduate programs in one of its campuses",
+                  "Site": "www.admissions.tiss.edu"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "MDUCEE 2020 - MAHARSHI DAYANAND UNIVERSITY COMMON ENTRANCE EXAM",
+                  "Desc": "Maharshi Dayanand University Common Entrance Exam (MDUCEE) is a state-level entrance test conducted for admission to various M.Sc and M.Pharma courses across seven universities of Haryana",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "IEMJEE - INSTITUTE OF ENGINEERING AND MANAGEMENT JOINT ENTRANCE EXAM",
+                  "Desc": "IEMJEE (Institute of Engineering and Management Joint Entrance Exam) is a university level exam conducted every year for admitting aspirants into various UG, PG and PhD programs offered by the University of Engineering and Management (UEM) at its 2 campuses - Kolkata and Jaipur.",
+                  "Site": "https://uem.edu.in/iemjee-2020/"
+                },
+                {
+                  "Name": "MET - MANIPAL ENTRANCE TEST",
+                  "Desc": "MET is a MAHE-level exam conducted by MAHE annually for admitting candidates to various UG and PG degree programs",
+                  "Site": "www.manipal.edu"
+                },
+                {
+                  "Name": "BHU PET - BANARAS HINDU UNIVERSITY POSTGRADUATE ENTRANCE TEST",
+                  "Desc": "BHU PET  is a university level Post Graduation Entrance Exam conducted by Banaras Hindu University in Varanasi, Uttar Pradesh. It is conducted to provide admission to General, Professional, Special and Vocational Courses. The university offers postgraduate programmes in the following streams: arts, commerce, social sciences, agriculture, and environment",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "IUET - INTEGRAL UNIVERSITY ENTRANCE TEST",
+                  "Desc": "IUET exam is conducted every year by integral University, Lucknow. It is a state level entrance exam for qualifying admission to U.G. and PG. Programmes",
+                  "Site": "www.admission.iul.ac.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "B.Com. Student",
+          "SubPassion": [
+            {
+              "Name": "B.Com. Student",
+              "Types": [
+                "M.Com",
+                "B.Ed.",
+                "LLB",
+                "Later Job or Phd"
+              ],
+              "Courses": [
+                "M.Com - 2 years",
+                "B.Ed. - 2 years",
+                "LLB - 3 years"
+              ],
+              "Exams": [
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "IPU CET is a university-level entrance exam for admission to UG & PG courses in engineering, medical, dental, law, and management",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "NPAT - NATIONAL TEST FOR PROGRAMS AFTER TWELFTH",
+                  "Desc": "NMIMS NPAT (NMIMS Programs After 12th) is the authorized entrance exam for admissions to Undergraduate Degree and Integrated Degree Programs in Narsee Monjee Institute of Management Studies or the NMIMS University",
+                  "Site": "https://www.npat.in/"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "HU UET is conducted by Banaras Hindu University for granting admission to students in its BA, B.Sc, B.Com, B.Ed, B.P.Ed, LLB, B.VSc, BPA and BFA  programs",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "UPES DAT - UNIVERSITY OF PETROLEUM AND ENERGY STUDIES DESIGN APTITUDE TEST",
+                  "Desc": "Design Aptitude Test (DAT) is conducted by University of Petroleum and Energy Studies (UPES). The online entrance exam is conducted for admission into various undergraduate and postgraduate design courses offered by the college under its School of Design Studies (SoDS)",
+                  "Site": "https://www.upes.ac.in/bdes-admission"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "DU JAT - DELHI UNIVERSITY JOINT ADMISSION TEST",
+                  "Desc": "DU JAT is conducted by Delhi University for admission in various undergraduate programs like BMS, BBA etc",
+                  "Site": "http://www.du.ac.in/"
+                },
+                {
+                  "Name": "TISS BAT - TATA INSTITUTE OF SOCIAL SCIENCES BACHELOR ADMISSION TEST",
+                  "Desc": "TISS BAT, elaborated as Tata Institute of Social Sciences Bachelor Admission Test is an entrance exam that is conducted by Tata Institute of Social Sciences",
+                  "Site": "www.tiss.edu"
+                },
+                {
+                  "Name": "JSAT - JINDAL SCHOLASTIC APTITUDE TEST",
+                  "Desc": "JSAT 2020 (Jindal Scholastic Aptitude Test) is an International level entrance exam conducted by O.P. Jindal Global University (JGU) for granting admission to students into its UG programs – BBA(H), B.Com(H), Integrated BBA+MBA, BA (H) Economics, Political Science, Global Affairs, Social Science & Policy, Liberal Arts & Humanities, Journalism & Media Studies, and Built Environment Studies.",
+                  "Site": "www.jgbs.edu.in"
+                },
+                {
+                  "Name": "UPSEE 2020 - UTTAR PRADESH STATE ENTRANCE EXAM",
+                  "Desc": "UPSEE is a state level entrance exam for admission to various undergraduate and postgraduate courses offered by the University",
+                  "Site": "www.upsee.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Junior accountant",
+                "Company law accountant",
+                "Sales officer",
+                "Relationship manager",
+                "Cashier budget analyst",
+                "Auditor",
+                "Job in private banks, government banks, railways"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "BCA Student",
+          "SubPassion": [
+            {
+              "Name": "BCA Student",
+              "Types": [
+                "MCA",
+                "MSc. Computer Science",
+                "Later Phd"
+              ],
+              "Courses": [
+                "MCA - 3 years course",
+                "Phd",
+                "MSc. Computer Science - 2 years course"
+              ],
+              "Exams": [
+                {
+                  "Name": "BIT MCA - BIRLA INSTITUTE OF TECHNOLOGY MCA ENTRANCE EXAM",
+                  "Desc": "Birla Institute of Technology, Mesra conducts an annual entrance exam BIT MCA, for admission to its 3 years MCA (Masters of Computer Applications) program",
+                  "Site": "https://www.bitmesra.ac.in/"
+                },
+                {
+                  "Name": "NIMCET - NIT MCA COMMON ENTRANCE TEST",
+                  "Desc": "NIT MCA Common Entrance Test is the national level entrance test in India for admission to Master of Computer Applications courses in selected National Institutes of Technology, University of Hyderabad, Guru Gobind Singh Indraprastha University and in Harcourt Butler Technical University.",
+                  "Site": "https://www.nimcet.in/"
+                },
+                {
+                  "Name": "IEMJEE - INSTITUTE OF ENGINEERING AND MANAGEMENT JOINT ENTRANCE EXAM",
+                  "Desc": "EMJEE is a university level exam conducted every year for admission into various UG, PG and PhD programs",
+                  "Site": "https://uem.edu.in/iemjee-2020/"
+                },
+                {
+                  "Name": "BHU PET - BANARAS HINDU UNIVERSITY POSTGRADUATE ENTRANCE TEST",
+                  "Desc": "BHU PET is University Level Post Graduation Entrance Exam conducted by Banaras Hindu University in Varanasi, Uttar Pradesh, for admission to General, Professional, Special and Vocational Courses",
+                  "Site": "http://bhuonline.in/"
+                },
+                {
+                  "Name": "VITMEE - VIT MASTERS ENTRANCE EXAMINATION",
+                  "Desc": "VITMEE exam is conducted for admission to MCA, M.Tech/M.Tech and Integrated Ph.D programs in VIT",
+                  "Site": "https://vit.ac.in/"
+                },
+                {
+                  "Name": "GSAT - GITAM SCIENCE ADMISSION TEST",
+                  "Desc": "GSAT is conducted by the GITAM Institute of Science is a part of GITAM University and it offers many undergraduates as well as postgraduate programmes to aspirants.",
+                  "Site": "https://gsat.gitam.edu/"
+                },
+                {
+                  "Name": "ATMA - AIMS TEST FOR MANAGEMENT ADMISSIONS",
+                  "Desc": "AIMS Test for Management Admissions (ATMA) is one of the popular National level MBA entrance exams in India.",
+                  "Site": "https://www.atmaaims.com/"
+                },
+                {
+                  "Name": "IPU CET - GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY COMMON ENTRANCE TEST",
+                  "Desc": "Indraprastha University Common Entrance Test (IPU CET) is a university-level entrance exam organized by Guru Gobind Singh Indraprastha University (GGSIPU).",
+                  "Site": "http://www.ipu.ac.in/"
+                },
+                {
+                  "Name": "JNU MCA - Jawaharlal Nehru University",
+                  "Desc": "This three year programme is designed to provide necessary theoretical background and practical experience in Computer Science and Applications to meet the growing manpower requirements in automatic computing. ",
+                  "Site": "https://www.jnu.ac.in/scss-mca"
+                }
+              ],
+              "Jobs": [
+                "Software Developer",
+                "System Analyst",
+                "Data Scientist",
+                "IT Architect"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "Management Students",
+          "SubPassion": [
+            {
+              "Name": "BBA/ BBM Students",
+              "Types": [
+                "MBA",
+                "Later Job or Phd"
+              ],
+              "Courses": [
+                "MBA"
+              ],
+              "Exams": [
+                {
+                  "Name": "CAT - COMMON ADMISSION TEST",
+                  "Desc": "Common Admission Test popularly known as CAT is a gateway to prestigious 20 IIMs and over 1200+ B schools in India",
+                  "Site": "www.iimcat.ac.in"
+                },
+                {
+                  "Name": "NMAT - NMAT BY GMAC",
+                  "Desc": "NMAT by GMAC is a management entrance exam organised by Graduate Management Admission Council. It is conducted in multiple windows between October and December at National level.",
+                  "Site": "https://www.nmat.org.in/"
+                },
+                {
+                  "Name": "MAT - MANAGEMENT APTITUDE TEST",
+                  "Desc": "MAT or Management Aptitude Test is a national level management exam held four times a year. Around 600+ B- schools in India accepts MAT score",
+                  "Site": "https://www.aima.in/"
+                },
+                {
+                  "Name": "XAT - XAVIER APTITUDE TEST",
+                  "Desc": "Xavier’s Aptitude Test (XAT) is a national level test organised by XLRI, Jamshedpur on behalf of Xavier Association of Management Institutes. It is a gateway to XAMI member institutes and over 700 B schools across India for their MBA/ PGDM programs",
+                  "Site": "www.xatonline.in"
+                },
+                {
+                  "Name": "GMAT - GRADUATE MANAGEMENT ADMISSION TEST",
+                  "Desc": "GMAT is conducted by GMAC for admission to management courses in various Business courses",
+                  "Site": "https://www.mba.com/exams/gmat"
+                },
+                {
+                  "Name": "CMAT - COMMON MANAGEMENT ADMISSION TEST",
+                  "Desc": "CMAT is a national level postgraduate entrance exam pertaining to all management programmes",
+                  "Site": "www.cmat.nta.nic.in"
+                },
+                {
+                  "Name": "SNAP - SYMBIOSIS NATIONAL APTITUDE TEST",
+                  "Desc": "SNAP is a national-level management entrance test, for admission to its 15 institutes offering management programmes",
+                  "Site": "www.snaptest.org"
+                },
+                {
+                  "Name": "IBSAT - ICFAI BUSINESS SCHOOL APTITUDE TEST",
+                  "Desc": "The ICFAI Foundation for Higher Education is conducted ICFAI Business School Aptitude Test (IBSAT) for admission to MBA/PGDM programs. IBSAT 2020 is a Management Aptitude Test that is conducted by ICFAI Foundation for Higher Educational Qualification. IBSAT 2020 exam organized to offer admission to MBA or PGPM programs.",
+                  "Site": "www.ibsindia.org"
+                }
+              ],
+              "Jobs": [
+                "Entrepreneurship",
+                "Operations Manager",
+                "Senior Business Analyst",
+                "Human Resource Manager or Generalist",
+                "Marketing Manager",
+                "Business Development Manager",
+                "Project Manager (IT)",
+                "Relationship Manager",
+                "Area Sales Manager",
+                "Financial Analyst",
+                "Management Consultant"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "LLB Students",
+          "SubPassion": [
+            {
+              "Name": "LLB Students",
+              "Types": [
+                "DLT",
+                "DLL",
+                "Later LLM"
+              ],
+              "Courses": [
+               "LLM - 2 years course"
+              ],
+              "Exams": [
+                {
+                  "Name": "AILET - ALL INDIA LAW ENTRANCE TEST",
+                  "Desc": "All India Law Entrance Test (AILET) is conducted by National Law University Delhi (NLU Delhi) to offer admission to eligible candidates in undergraduate (UG), postgraduate (PG) and doctorate (PhD) level law courses.",
+                  "Site": "https://nludelhi.admissionhelp.com/nlu/login.aspx"
+                },
+                {
+                  "Name": "AIBE - ALL INDIA BAR EXAMINATION",
+                  "Desc": "AIBE, All India Bar Examination, is a national level exam conducted byBar Council of India (BCI) with the objective of assessing the capability of advocates who want to practice law in India.",
+                  "Site": "http://www.allindiabarexamination.com/"
+                },
+                {
+                  "Name": "LSAT - LAW SCHOOL ADMISSION TEST",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "http://www.discoverlaw.in"
+                },
+                {
+                  "Name": "DU LLB - DU LLB ENTRANCE EXAM",
+                  "Desc": "DU LLB Entrance Exam is a university level test conducted annually to shortlist aspirants for admission in 3-year LLB",
+                  "Site": "www.lawfaculty.du.ac.in"
+                },
+                {
+                  "Name": "BHU UET - BANARAS HINDU UNIVERSITY UNDERGRADUATE ENTRANCE TEST",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                },
+                {
+                  "Name": "MGU CAT - MAHATMA GANDHI UNIVERSITY COMMON ADMISSION TEST",
+                  "Desc": "MGU CAT is a university level entrance exam for candidates seeking admission in various postgraduate programs at MGU. Candidates must have a bachelor's degree with minimum 50% marks from the recognized university.",
+                  "Site": "www.cat.mgu.ac.in"
+                },
+                {
+                  "Name": "AMU BA LLB - ALIGARH MUSLIM UNIVERSITY LAW ENTRANCE EXAMINATION",
+                  "Desc": "Aligarh Muslim University is a public university in Aligarh",
+                  "Site": "www.amucontrollerexams.com"
+                },
+                {
+                  "Name": "PU LLB - PANJAB UNIVERSITY LAW ENTRANCE EXAM",
+                  "Desc": "Punjab University (PU) conducts the entrance examination for admission of eligible candidates into three years LLB Programme",
+                  "Site": "http://puchd.ac.in"
+                },
+                {
+                  "Name": "IUET - INTEGRAL UNIVERSITY ENTRANCE TEST",
+                  "Desc": "IUET is a state level entrance exam for admission into U.G. and PG. Programmes”. IUET exam is conducted every year by integral University, Lucknow. It is a state level entrance exam for qualifying admission to U.G. and PG. Programmes",
+                  "Site": "http://iul.ac.in/iuet_syllabus.aspx"
+                },
+                {
+                  "Name": "JMI BA LLB - JAMIA MILLIA ISLAMIA BA LLB",
+                  "Desc": "Jamia Millia Islamia is a Central University located in Jamia Nagar, New Delhi, India. Originally established at Aligarh, United Provinces during the British Raj in 1920, it moved to its current location in Okhla in 1935",
+                  "Site": "www.jmi.ac.in"
+                },
+                {
+                  "Name": "AIBE - ALL INDIA BAR EXAMINATION",
+                  "Desc": "AIBE, All India Bar Examination, is a national level exam conducted byBar Council of India (BCI) with the objective of assessing the capability of advocates who want to practice law in India.",
+                  "Site": "http://www.allindiabarexamination.com/"
+                },
+                {
+                  "Name": "AILET - ALL INDIA LAW ENTRANCE TEST",
+                  "Desc": "All India Law Entrance Test, or AILET, is conducted for admission to law courses in NLUD",
+                  "Site": "www.nludelhi.ac.in/ailet2020"
+                },
+                {
+                  "Name": "ACLAT - ALLIANCE UNIVERSITY COMMON LAW ADMISSION TEST",
+                  "Desc": "ACLAT (Alliance University Common Law Admission Test) is conducted by Alliance School of Law for admissions to various undergraduate law courses in the University. The exam is held across 10 exam cities in the country",
+                  "Site": "http://alliance.edu.in/"
+                }
+              ],
+              "Jobs": [
+                "Advocate. Advocacy is one of the chief professions chosen by LLM graduates",
+                "Government Services. Students can opt to join Government Services after completing their LLM",
+                "Legal Advisor",
+                "Judiciary",
+                "Teaching",
+                "Legal Outsourcing",
+                "Private Companies",
+                "Higher Education"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "3",
+      "Name": "Talent Hunt Test",
+      "Passion": [
+
+        {
+
+          "Id": "1",
+
+          "Name": "NDSE (National Talent Search Exam)",
+
+          "Eligiblity": "10 th class students, Science, Maths , Social , Mental ablility",
+
+          "Site": "www.ncert.nic.in"
+
+        },
+
+        {
+
+          "Id": "2",
+
+          "Name": "KYPY (Kishor Vygnanika  Proshaah  Yogena)",
+
+          "Eligiblity": "Inter (MPC /BiPC) , Inter syllabus",
+
+          "Site": "www.kypy.iisc.ernet.in"
+
+        },
+
+        {
+
+          "Id": "2",
+
+          "Name": "HBBVS (Dr. Homi Baba bala vidyanic spertha)",
+
+          "Eligiblity": "6 to 9 th class students, CBSE/ICSE Syllabus",
+
+          "Site": "www.instrs.in"
+
+        },
+
+        {
+
+          "Id": "3",
+
+          "Name": "NSO (National Science Olympiad)",
+
+          "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+          "Site": "www.sofworld.org"
+
+        },
+
+        {
+
+          "Id": "4",
+
+          "Name": "NCO (National Cyber Olympiad)",
+
+          "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+          "Site": "www.sofworld.org"
+
+        },
+
+        {
+
+          "Id": "5",
+
+          "Name": "UCO (Unified Cyber Olympiad)",
+
+          "Eligiblity": "8 to 12 th class students , Mental ability, Reasoning, Computer Skills",
+
+          "Site": "www.unifiedcouncil.com"
+
+        },
+
+        {
+
+          "Id": "6",
+
+          "Name": "NDSE (National Science Talent search Exam)",
+
+          "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+          "Site": "www.unifiedcouncil.com"
+
+        },
+
+        {
+
+          "Id": "7",
+
+          "Name": "MTSE (Maths Talent Search Exam)",
+
+          "Eligiblity": "3 to 9 th class students, Mental ability, Reasoning, Maths",
+
+          "Site": "www.ganithasastraparishad.org"
+
+        },
+
+        {
+
+          "Id": "8",
+
+          "Name": "IMO (International Mathematics Olympiad)",
+
+          "Eligiblity": "1 to 12 th class students , CBSE/ICSE Syllabus",
+
+          "Site": "www.imo_official.in"
+
+        },
+
+        {
+
+          "Id": "9",
+
+          "Name": "NLSTSE (National Level Science Talent Search Exam)",
+
+          "Eligiblity": "1 to 12 th class students, CBSE/ICSE Syllabus",
+
+          "Site": "www.unifiedcouncil.com"
+
+        },
+
+        {
+
+          "Id": "10",
+
+          "Name": "NSEJS (National Standard Exam in Junior l Science)",
+
+          "Eligiblity": "1 to 10 th class students , CBSE/ICSE Syllabus",
+
+          "Site": "www.iapt.org.in"
+
+        },
+
+        {
+
+          "Id": "11",
+
+          "Name": "SSTSE (State Level Science Talent Search Exam)",
+
+          "Eligiblity": "4 to 10 th class students , SCERT",
+
+          "Site": "www.unifiedcouncil.com"
+
+        },
+
+        {
+
+          "Id": "12",
+
+          "Name": "IAIS (International Assessment for Indian Schools)",
+
+          "Eligiblity": "3 to 12 th class students, CBSE/ICSE / SCERT Syllabus",
+
+          "Site": "www.macmillaneducat ion.in/iais"
+
+        },
+
+        {
+
+          "Id": "13",
+
+          "Name": "IOS (International Olympiad in Science)",
+
+          "Eligiblity": "1 to 12 th class students, CBSE/ICSE",
+
+          "Site": "www.sofworld.org"
+
+        },
+
+        {
+
+          "Id": "14",
+
+          "Name": "RMO (Regional Mathematics Olympiad)",
+
+          "Eligiblity": "Intermediate CBSE  Syllabus",
+
+          "Site": "www.isical.ac.in"
+
+        },
+
+        {
+
+          "Id": "15",
+
+          "Name": "IOEL (International Olympiad of English Language)",
+
+          "Eligiblity": "1 to 12 th class students CBSE/ICSE Syllabus",
+
+          "Site": "http://schools.aglasari.com"
+
+        },
+
+        {
+
+          "Id": "16",
+
+          "Name": "NSIB (National Standard Exam in Biology)",
+
+          "Eligiblity": "Senior Inter Students CBSE"
+
+        },
+
+        {
+
+          "Id": "17",
+
+          "Name": "NSEC (National Standard Exam in Chemistry)",
+
+          "Eligiblity": "Senior Inter Students CBSE  Syllabus",
+
+          "Site": "http://iapt.org.in"
+
+        },
+
+        {
+
+          "Id": "18",
+
+          "Name": "NSEA (National Standard Exam in Astronomy)",
+
+          "Eligiblity": "Senior Inter Students CBSE  Syllabus",
+
+          "Site": "http://iapt.org.in"
+
+        },
+
+        {
+
+          "Id": "19",
+
+          "Name": "NSEP (National Standard Exam in Physics)",
+
+          "Eligiblity": "Senior Inter Students CBSE  Syllabus",
+
+          "Site": "http://iapt.org.in"
+
+        },
+
+        {
+
+          "Id": "20",
+
+          "Name": "ZIO (Zonal Information Olympiad)",
+
+          "Eligiblity": "8 to 12 th class students CBSE  Syllabus",
+
+          "Site": "www.iarcs.org.in"
+
+        },
+
+        {
+
+          "Id": "21",
+
+          "Name": "IIO (International Information Olympiad)",
+
+          "Eligiblity": "1 to 8 th class students CBSE/ICSE / SCERT Syllabus",
+
+          "Site": "www.iarcs.org.in"
+
+        },
+
+        {
+
+          "Id": "22",
+
+          "Name": "NIMO (National Interactive  Mathematics Olympiad)",
+
+          "Eligiblity": "5 to 12th class students Maths, Science, Mental Ability",
+
+          "Site": "www.eduhealfoundation.org"
+
+        },
+
+        {
+
+          "Id": "23",
+
+          "Name": "NBTO (National Bio-Technology Olympiad)",
+
+          "Eligiblity": "5 to 12th class students CBSE/ICSE / SCERT",
+
+          "Site": "www.eduhealfoundation.org"
+
+        },
+
+        {
+
+          "Id": "24",
+
+          "Name": "IGO (Indian Geography Olympiad)",
+
+          "Eligiblity": "2nd  to 12th class students CBSE",
+
+          "Site": "www.geogeniusindia.com"
+
+        },
+
+        {
+
+          "Id": "25",
+
+          "Name": "KO (Knowledge Olimpiade)",
+
+          "Eligiblity": "2 nd  to 12th class students CBSE/ICSE / SCERT",
+
+          "Site": "http://aisect.org"
+
+        }
+
+      ]
+    }
+  ]
+}

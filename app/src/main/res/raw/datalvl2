@@ -1,0 +1,256 @@
+{
+  "Level": [
+    {
+      "Id": "2",
+      "Name": "After Graduation",
+      "Passion": [
+        {
+          "Name": "Engineering Student",
+          "SubPassion": [
+            {
+              "Name": "Engineering Student",
+              "Types": [
+                "Mtech",
+                "MBA",
+                "Job"
+              ],
+              "Courses": [
+                "Mtech",
+                "MBA"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "Medical Student",
+          "SubPassion": [
+            {
+              "Name": "Medical Student",
+              "Types": [
+                "MS",
+                "MD",
+                "Practics",
+                "Job"
+              ],
+              "Courses": [
+                "MS",
+                "MD"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "BA Student",
+          "SubPassion": [
+            {
+              "Name": "BA Student",
+              "Types": [],
+              "Courses": [
+                "MA",
+                "B.Ed.",
+                "MBA",
+                "LLB",
+                "Later Phd"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "B.Sc. Student",
+          "SubPassion": [
+            {
+              "Name": "B.Sc. Student",
+              "Types": [
+                "M.Sc Maths",
+                "M.Sc Chemistry",
+                "M.Sc Botany",
+                "M.Sc Zoology",
+                "M.Sc Physics",
+                "M.Sc Home Science",
+                "M.Sc Anthrop",
+                "M.sc. Psychology",
+                "M.Sc Bio-Chemis",
+                "MSc Virology",
+                "M.Sc Micro biol",
+                "M.Sc. Bio-Technology"
+              ],
+              "Courses": [
+                "M.Sc.",
+                "B.Ed.",
+                "LLB",
+                "Later Job or Phd"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "B.Com. Student",
+          "SubPassion": [
+            {
+              "Name": "B.Com. Student",
+              "Types": [
+                "M.Com",
+                "B.Ed.",
+                "LLB",
+                "Later Job or Phd"
+              ],
+              "Courses": [
+                "M.Com",
+                "B.Ed.",
+                "LLB"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "BCA Student",
+          "SubPassion": [
+            {
+              "Name": "BCA Student",
+              "Types": [
+                "MCA",
+                "MBA",
+                "MSc. Computer Science",
+                "Later Job or Phd"
+              ],
+              "Courses": [
+                "MCA",
+                "MBA",
+                "MSc. Computer Science"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "BBA/ BBM Students",
+          "SubPassion": [
+            {
+              "Name": "BBA/ BBM Students",
+              "Types": [
+                "MBA",
+                "Later Job or Phd"
+              ],
+              "Courses": [
+                "MBA"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "LLB Students",
+          "SubPassion": [
+            {
+              "Name": "LLB Students",
+              "Types": [
+                "DLT",
+                "DLL",
+                "Later LLM"
+              ],
+              "Courses": [
+                "DLT",
+                "DLL",
+                "Later LLM"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

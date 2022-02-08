@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shubh.whatnext">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo1"
+        android:label="WhatNext!"
+        android:roundIcon="@drawable/logo1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+
+        <activity
+            android:name=".mainSubPassion"
+            android:label="Specific Interest"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".mainTelent"
+            android:label="Telent Exams across India"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mainEnd"
+            android:label="Summary"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mainJob"
+            android:label="Job Opportunities"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mainExam"
+            android:label="Exams Conducted across India"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mainCourses"
+            android:label="Course Options"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mainType"
+            android:label="Specific Interest"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".mainInput"
+            android:label="Basic Inputs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:label="WhatNext!"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+    </application>
+
+</manifest>

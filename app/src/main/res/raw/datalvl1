@@ -1,0 +1,653 @@
+{
+  "Level": [
+    {
+      "Id": "1",
+      "Name": "After 12th",
+      "Passion": [
+        {
+          "Name": "Engineering",
+          "SubPassion": [
+            {
+              "Name": "Engineering",
+              "Types": [
+                "Computer Engg",
+                "Information Technology",
+                "Electric and Telecommunication",
+                "Electrical & Electronics Engg",
+                "Civil Engg",
+                "Mechanical Eng",
+                "Chemical Eng",
+                "Aeronautical Eng",
+                "Aerospace Eng",
+                "Agriculture Eng",
+                "Automobile Eng",
+                "Bio-medical Eng",
+                "Bio-technology Eng",
+                "Ceramic Eng",
+                "Industrial Eng",
+                "Environmental Eng",
+                "Marine Eng",
+                "Mining Eng",
+                "Silk & Textile Eng"
+              ],
+              "Courses": [
+                "BE / B. Tech( 4 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "BITSAT",
+                  "Desc": "BITSAT",
+                  "Site": "http://www.bitsadmission.com"
+                },
+                {
+                  "Name": "COMED-K",
+                  "Desc": "COMED-K",
+                  "Site": "https://www.comedk.org/"
+                },
+                {
+                  "Name": "IPU-CET (B. Tech)",
+                  "Desc": "IPU-CET (B. Tech)",
+                  "Site": "www.ipu.ac.in"
+                },
+                {
+                  "Name": "Manipal (B. Tech)",
+                  "Desc": "Manipal (B. Tech)",
+                  "Site": "www.admissions.manipal.edu"
+                },
+                {
+                  "Name": "VITEEE",
+                  "Desc": "VITEEE",
+                  "Site": "www.vit.ac.in"
+                },
+                {
+                  "Name": "AMU (B. Tech)",
+                  "Desc": "AMU",
+                  "Site": "http://www.amucontrollerexams.com/"
+                },
+                {
+                  "Name": "State Level Engineering Entrance Exams(APEAMCET)",
+                  "Desc": "AP",
+                  "Site": "http://www..ap.gov.in/eamcet"
+                },
+                {
+                  "Name": "All India Engineering Entrance",
+                  "Desc": "JEE",
+                  "Site": "http://www.jeemain.nic.in"
+                }
+              ],
+              "Jobs": [
+                "Open Work",
+                "VRA",
+                "Military",
+                "AW (Female)",
+                "Driving Posts"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Medical",
+          "SubPassion": [
+            {
+              "Name": "Medicine",
+              "Types": [
+                "MBBS-Allopathic",
+                "BUMS-Unani",
+                "BHMS-Homeopathy",
+                "BAMS-Ayurveda",
+                "BNYS-Naturopathy",
+                "Ag.BSc-Agricultural",
+                "BDS-Dental",
+                "BVSc-Veterinary",
+                "BPT-Physiotherapy"
+              ],
+              "Courses": [
+                "Medicine ( 5 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "AIIMS",
+                  "Desc": "AIIMS",
+                  "Site": "http://aiimsexams.org"
+                },
+                {
+                  "Name": "CMC-Vellore",
+                  "Desc": "CMC-Vellore",
+                  "Site": "http://admissions.cmcvellore.ac.in/"
+                },
+                {
+                  "Name": "CMC-Ludhiana",
+                  "Desc": "CMC-Ludhiana",
+                  "Site": "http://cmcludhiana.in/"
+                },
+                {
+                  "Name": "COMED-K",
+                  "Desc": "COMED-K",
+                  "Site": "https://www.comedk.org/"
+                },
+                {
+                  "Name": "JIPMER",
+                  "Desc": "JIPMER",
+                  "Site": "http://jipmer.edu.in/"
+                },
+                {
+                  "Name": "Manipal (MBBS)",
+                  "Desc": "Manipal (MBBS)",
+                  "Site": "www.admissions.manipal.edu"
+                },
+                {
+                  "Name": "NEET",
+                  "Desc": "National Eligibility Cum Entrance Test",
+                  "Site": "https://ntaneet.nic.in/ntaneet/welcome.aspx"
+                }
+              ],
+              "Jobs": [
+                "Open Work",
+                "VRA",
+                "Military",
+                "AW (Female)"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Allied Health Sciences",
+              "Types": [
+                "B.Pharma",
+                "BSc. Nursing",
+                "BOT-Occupational therapy",
+                "BSc-Anesthesia Tec",
+                "BSc-Cardiac Tec",
+                "BSc-Medical  Lab Tec",
+                "BSc-Radio Therapy Tec",
+                "BSc-Clinical Optometry",
+                "BSc-Nuclear Medicine",
+                "BSc-Operation Theatre",
+                "BSc-Physician assistant",
+                "BSc-Respiratory care",
+                "BMLT-Medical Lab Technology"
+              ],
+              "Courses": [
+                "Health Sciences ( 2/3 years )"
+              ],
+              "Exams": [
+                {
+                  "Name": "TBD",
+                  "Desc": "TBD",
+                  "Site": "TBD"
+                },
+                {
+                  "Name": "TBD",
+                  "Desc": "TBD",
+                  "Site": "TBD"
+                }
+              ],
+              "Jobs": [
+                "Open Work",
+                "VRA",
+                "Military",
+                "AW (Female)"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Arm Force",
+          "SubPassion": [
+            {
+              "Name": "Army",
+              "Types": [
+                "Army"
+              ],
+              "Courses": [
+                "NDA",
+                "TES"
+              ],
+              "Exams": [
+                {
+                  "Name": "National Defence Academy and Naval Academy Examination (I)",
+                  "Desc": "Admission to Army and Air Force wings of NDA and 4 years B. Tech course for the Indian Naval",
+                  "Site": "www.upsc.gov.in/"
+                },
+                {
+                  "Name": "Defence Indian Army Technical Entry Scheme (TES)",
+                  "Desc": "Purpose-Technical Entry to Army",
+                  "Site": "www.joinindianarmy.nic.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Air Force",
+              "Types": [
+                "Air Force"
+              ],
+              "Courses": [
+                "NDA"
+              ],
+              "Exams": [
+                {
+                  "Name": "National Defence Academy and Naval Academy Examination (I)",
+                  "Desc": "Admission to Army and Air Force wings of NDA and 4 years B. Tech course for the Indian Naval",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Navy",
+              "Types": [
+                "Navy"
+              ],
+              "Courses": [
+                "NDA"
+              ],
+              "Exams": [
+                {
+                  "Name": "National Defence Academy and Naval Academy Examination (I)",
+                  "Desc": "Admission to Army and Air Force wings of NDA and 4 years B. Tech course for the Indian Naval",
+                  "Site": "www.upsc.gov.in/"
+                },
+                {
+                  "Name": "Indian Maritime University Common Entrance Test",
+                  "Desc": "Admission in Diploma in Nautical Science (DNS) leading to BSc. (Nautical Science)",
+                  "Site": "www.imu.edu.in/index.php"
+                },
+                {
+                  "Name": "Indian Navy Sailors Recruitmen",
+                  "Desc": "Admission in 24 weeks Basic training at INS Chilka followed by Professional training",
+                  "Site": "www.nausena-bharti.nic.in/index.php"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Others (Diploma Courses)",
+          "SubPassion": [
+            {
+              "Name": "Foreign Languages",
+              "Types": [
+                "French",
+                "Dutch"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Fire Safety",
+              "Types": [
+                "Fire Safety"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Journalism",
+              "Types": [
+                "Journalism"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Home Science",
+              "Types": [
+                "Home Science"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Rural development",
+              "Types": [
+                "Rural development"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Designing",
+              "Types": [
+                "Jewelry Designing",
+                "Fashion Designing",
+                "Interior Designing"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "text",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Film making",
+              "Types": [
+                "Direction",
+                "Screen Writing",
+                "Cinematography",
+                "Sound designee",
+                "Editing",
+                "Action"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "test",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            },
+            {
+              "Name": "Management",
+              "Types": [
+                "Finance Management",
+                "Event Management",
+                "Hotel Management",
+                "Tourism Management",
+                "Business Management"
+              ],
+              "Courses": [
+                "Private Courses (6 months/ 1year )"
+              ],
+              "Exams": [
+                {
+                  "Name": "APRJC",
+                  "Desc": "test",
+                  "Site": "www.aprs.cgg.gov.in"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": ""
+            }
+          ]
+        },
+        {
+          "Name": "Accounting & Finance",
+          "SubPassion": [
+            {
+              "Name": "Accounting & Finance",
+              "Types": [
+                "ICWA",
+                "CS",
+                "CA"
+              ],
+              "Courses": [
+                "ICWA",
+                "CS",
+                "CA"
+              ],
+              "Exams": [
+                {
+                  "Name": "ICWA, CS, CA",
+                  "Desc": "ICWA, CS, CA",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Teaching",
+          "SubPassion": [
+            {
+              "Name": "Teaching",
+              "Types": [
+                "D. Ed.",
+                "UDPED",
+                "ECCED"
+              ],
+              "Courses": [
+                "D. Ed (2 Years - D.Ed entrance - Primary School Teache)",
+                "UDPED  (2 Years - PET Teacher)",
+                "ECCED (Early Childhood care Education)"
+              ],
+              "Exams": [
+                {
+                  "Name": "D. Ed. , UDPED, ECCED",
+                  "Desc": "D. Ed. , UDPED, ECCED",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        },
+        {
+          "Name": "Degree",
+          "SubPassion": [
+            {
+              "Name": "BA",
+              "Types": [
+                "BA",
+                "Bed",
+                "LLB"
+              ],
+              "Courses": [
+                "3 years course"
+              ],
+              "Exams": [
+                {
+                  "Name": "BA, Bed, LLB",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "B.Com.",
+              "Types": [
+                "B.Com. - Regular",
+                "B.Com. - Computer",
+                "B.Com. - Bank Management",
+                "B.Com. - Tax Process"
+              ],
+              "Courses": [
+                "3 Years Courses"
+              ],
+              "Exams": [
+                {
+                  "Name": "BA, Bed, LLB",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "B.Sc.",
+              "Types": [
+                "B.Sc. - PCM",
+                "B.Sc. - MEC",
+                "B.Sc. - Applied Maths",
+                "B.Sc. - CPZ",
+                "B.Sc. - BZC/CBZ",
+                "B.Sc. - Horticulture",
+                "B.Sc. - Computer Science",
+                "B.Sc. - Home Science",
+                "B.Sc. - Bio-Chemistry"
+              ],
+              "Courses": [
+                "3 Years Courses"
+              ],
+              "Exams": [
+                {
+                  "Name": "BA, Bed, LLB",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "B.Sc. -  Biology",
+              "Types": [
+                "B.Sc. - Micro biology",
+                "B.Sc. - Bio Tech",
+                "B.Sc. - Dairy Science",
+                "B.Sc. - AnthroP"
+              ],
+              "Courses": [
+                "3 Years Courses"
+              ],
+              "Exams": [
+                {
+                  "Name": "BA, Bed, LLB",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            },
+            {
+              "Name": "Law/ Lawyer",
+              "Types": [
+                "LLB"
+              ],
+              "Courses": [
+                "3 Years Courses"
+              ],
+              "Exams": [
+                {
+                  "Name": "BA, Bed, LLB",
+                  "Desc": "BA, Bed, LLB",
+                  "Site": "www.upsc.gov.in/"
+                }
+              ],
+              "Jobs": [
+                "Own Work",
+                "Private or Government Job"
+              ],
+              "NextLevel": "NL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
